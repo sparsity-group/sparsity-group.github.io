@@ -57,6 +57,10 @@ main = hakyll $ do
     route   flatRoute
     compile copyFileCompiler
 
+  match (fromList ["CNAME", "favicon.png"]) $ do
+    route   idRoute
+    compile copyFileCompiler
+
   match "templates/*" $ compile templateBodyCompiler
 
 --------------------------------------------------------------------------------
