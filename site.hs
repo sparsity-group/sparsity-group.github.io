@@ -35,7 +35,7 @@ config = defaultConfiguration
 -- }}}
 
 main :: IO ()
-main = hakyll $ do
+main = hakyllWith config $ do
 
   match (fromList ["about.md", "contact.md", "cv.md"]) $ do
     route   $ cleanRoute
