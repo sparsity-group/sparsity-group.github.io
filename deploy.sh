@@ -3,15 +3,14 @@
 cd _site
 
 # Super hacky and terrible practice. DO NOT DO THIS
-if [ -a old ] ; then
-    git clone https://github.com/rp/rp.github.io.git old
-    mv old/.git .
-    rm -rf old
+git clone https://github.com/rp/rp.github.io.git old
+mv old/.git .
 
-    echo -n "Commit Message: " ; read -e msg
+echo -n "Commit Message: " ; read -e msg
 
-    git add .
-    git commit -m "Deploy: $msg"
-fi
+rm -rf old
+git add .
+git commit -m "Deploy: $msg"
 
 git push
+rm -rf .git
