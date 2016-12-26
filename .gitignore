@@ -1,0 +1,13 @@
+# LaTeX stuff
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.bbl
+*.pdf
+
+# Hakyll stuff
+_cache/
+_site/
+.stack-work/

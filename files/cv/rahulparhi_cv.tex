@@ -1,0 +1,37 @@
+\documentclass{resume}
+\usepackage[utf8]{inputenc}
+
+\usepackage[margin=0.6in]{geometry}
+\usepackage{scrextend}
+
+\makeatletter
+\def\input@path{{sections/}{content/}}
+\makeatother
+
+% tabularx multicolumn hacks
+\newcommand{\mcX}[2]{\multicolumn{#1}{>{\setlength{\hsize}{#1\hsize}}X}{#2}}
+\newcommand{\mc}[3]{\multicolumn{#1}{#2}{#3}}
+
+\def\labelitemi{--}
+
+\setlength{\multicolsep}{6.0pt plus 2.0pt minus 1.5pt}% 50% of original values
+
+\def\me{{\bf Rahul Parhi}} % makes my name bold in publications
+\input{links.tex}
+
+\name{Rahul Parhi}
+\address{\href{tel:16124446067}{{\tt (612)}~$\cdot$~{\tt 444}~$\cdot$~{\tt 6067}} \\
+{\tt \href{mailto:parhi003@umn.edu}{parhi003@umn.edu}} \\
+{\tt \href{http://rahul.nu}{http://rahul.nu}}}
+
+\begin{document}
+
+%\input{personal}
+\input{education}
+\input{skills}
+\input{ugresearch}
+\input{teaching}
+\input{publications}
+\input{awards}
+
+\end{document}

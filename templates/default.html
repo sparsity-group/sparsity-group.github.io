@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="put a witty website description here later
+    ">
+
+    $if(root)$
+      <title>Rahul Parhi</title>
+    $else$
+      <title>Rahul Parhi &ndash; $title$</title>
+    $endif$
+
+    <!-- font-family: 'Open Sans', sans-serif; -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <!-- font-family: 'PT Serif', serif; -->
+    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700' rel='stylesheet' type='text/css'>
+    <!-- font-family: 'PT Mono', monospace; -->
+    <link href='https://fonts.googleapis.com/css?family=PT+Mono' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="/css/default.css" />
+
+    <script>
+      (function (b, o, i, l, e, r) {
+        b.GoogleAnalyticsObject = l;
+        b[l] || (b[l] =
+                    function () {
+                      (b[l].q = b[l].q || []).push(arguments)
+                    });
+        b[l].l = +new Date;
+        e = o.createElement(i);
+        r = o.getElementsByTagName(i)[0];
+        e.src = '//www.google-analytics.com/analytics.js';
+        r.parentNode.insertBefore(e, r)
+      }(window, document, 'script', 'ga'));
+      ga('create', 'UA-66619819-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+
+  </head>
+
+  <body>
+
+    <div id="wrapper">
+
+      <div id="header">
+
+        <ul>
+          <li id="name" style="text-align: center;"><a href="/">Rahul<br>Parhi</a></li>
+          <li><a href="/">Home</a></li>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/contact/">Contact</a></li>
+          <li><a href="/cv/">CV</a></li>
+        </ul>
+
+      </div>
+
+      <div id="footer">
+
+        &copy; 2015 &ndash;
+        <script type="text/javascript">
+          now = new Date
+          theYear = now.getYear()
+          if (theYear < 1900)
+            theYear = theYear+1900
+          document.write(theYear)
+        </script>
+        Rahul Parhi
+
+      </div>
+
+      <div id="main">
+        <h1>$title$<hr/></h1>
+        $body$
+      </div>
+
+    </div>
+
+  </body>
+</html>

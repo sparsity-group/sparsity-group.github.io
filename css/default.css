@@ -1,0 +1,132 @@
+
+/* MAIN STUFF {{{ */
+html,body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	height: 100%;
+	background-color: #e7e7e7;
+	/*background-image: url("../img/moon.png"); /* stolen from subtlepatterns.com (slightly edited) */
+}
+
+h1,h2,h3,h4,h5,h6,p {
+	font-family: 'Open Sans', sans-serif;
+}
+/* }}} */
+
+
+/* I don't know why this is needed, but it makes the thingy work */
+#wrapper {
+	min-height: 100%;
+	position: relative;
+}
+
+/* HEADER {{{ */
+#header {
+	font-family: 'PT Serif', serif;
+}
+
+#header #name {
+	font-size: 2.5em;
+	padding: 0.8em 1em;
+}
+
+#header #name a {
+	display: inline;
+	padding: 0;
+	text-decoration: none;
+}
+
+#header #name a:hover {
+	background-color: transparent;
+}
+
+#header ul {
+	list-style-type: none;
+	color: #e7e7e7;
+	margin: 0;
+	padding: 0;
+	width: 200px;
+	background-color: #333333;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	position: fixed;
+	height: 100%;
+	overflow: auto;
+}
+
+#header li a {
+	display: block;
+	color: inherit;
+	padding: 1em 2em;
+	text-decoration: none;
+}
+
+#header li a:hover {
+	background-color: #555;
+	color: white;
+}
+
+#header li a:active {
+	background-color: #666;
+}
+/* }}} */
+
+#footer {
+	font-family: 'PT Serif', serif;
+	display: inline-block;
+	text-align: center;
+	margin-bottom: 1em;
+	position: absolute;
+	text-indent: 250px;
+	bottom: 0;
+	width: 100%;
+}
+
+#main {
+	min-height: 100%;
+	margin-left: 200px;
+	padding: 1em 2em 3em 2em;
+	margin-bottom: 1em;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+/* CODE {{{ */
+code, pre {
+	color: inherit;
+	font-family: 'PT Mono', monospace;
+	font-size: 90%;
+	padding: 2px;
+}
+
+pre code:before, pre code:after {
+	content: none;
+}
+
+pre {
+	padding: 10px;
+	overflow-x: auto;
+	overflow-y: hidden;
+	background-color: #ffffff;
+	border: 1px solid #bbb;
+	border-radius: 3px;
+}
+
+pre code {
+	padding: 0;
+	border: none;
+}
+/* }}} */
+
+/* QUOTE {{{ */
+blockquote, q {
+	color: #666;
+	font-style: italic;
+}
+
+blockquote {
+	border-left: 6px solid #aaa;
+	padding-left: 6px;
+	margin-left: 0px;
+}
+/* }}} */
