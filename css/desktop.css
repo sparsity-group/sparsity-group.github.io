@@ -1,0 +1,21 @@
+@media all and (min-width: 840px) {
+  div.dropdown-button {
+    display: none;
+  }
+
+  div.content {
+    width: 800px;
+  }
+
+  ul.navigation div.content {
+    width: 840px; /* 800 + 2 * 20 (from the padding in the navigation) */
+  }
+
+  div.dropdown-content a:hover {
+    background-color: #555;
+  }
+
+  div.dropdown-content a:active {
+    background-color: #666;
+  }
+}
