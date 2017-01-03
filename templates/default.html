@@ -43,39 +43,65 @@
 
   <body>
 
-    <div id="wrapper">
+    <ul class="navigation">
+      <div class="content">
+        <li id="name"><a href="/">Rahul Parhi</a></li>
 
-      <div id="header">
-
-        <ul>
-          <li id="name" style="text-align: center;"><a href="/">Rahul<br>Parhi</a></li>
-          <li><a href="/">Home</a></li>
-          <li><a href="/about/">About</a></li>
-          <li><a href="/contact/">Contact</a></li>
+        <div class="dropdown">
+        <li id="menu">
+            <div class="dropdown-button svg-wrapper">
+              <svg
+                 xmlns:dc="http://purl.org/dc/elements/1.1/"
+                 xmlns:cc="http://creativecommons.org/ns#"
+                 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:svg="http://www.w3.org/2000/svg"
+                 xmlns="http://www.w3.org/2000/svg"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+                 xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+                 height="26"
+                 id="menu"
+                 viewBox="0 0 34 26"
+                 width="34"
+                 xml:space="preserve"
+                 version="1.1"
+                 inkscape:version="0.91 r13725"
+                 sodipodi:docname="menu.svg">
+                <g>
+                <path
+                 d="M 5,7 29,7 C 30.104,7 31,6.104 31,5 31,3.896 30.104,3 29,3 L 5,3 C 3.896,3 3,3.896 3,5 3,6.104 3.896,7 5,7 Z m 24,4 -24,0 c -1.104,0 -2,0.896 -2,2 0,1.104 0.896,2 2,2 l 24,0 c 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 z m 0,8 -24,0 c -1.104,0 -2,0.896 -2,2 0,1.104 0.896,2 2,2 l 24,0 c 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 z"
+                 id="path3384"
+                 inkscape:connector-curvature="0" />
+                </g>
+              </svg>
+            </div>
+        </li>
+        <div class="dropdown-content">
           <li><a href="/cv/">CV</a></li>
-        </ul>
-
+          <li><a href="/contact/">Contact</a></li>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/">Home</a></li>
+        </div>
+          </div>
       </div>
+    </ul>
 
-      <div id="footer">
+    <div class="content main">
+      <h2>$title$</h2>
+      $body$
+    </div>
 
-        &copy; 2015 &ndash;
-        <script type="text/javascript">
-          now = new Date
-          theYear = now.getYear()
-          if (theYear < 1900)
-            theYear = theYear+1900
-          document.write(theYear)
-        </script>
-        Rahul Parhi
-
-      </div>
-
-      <div id="main">
-        <h1>$title$<hr/></h1>
-        $body$
-      </div>
-
+    <div class="footer content">
+      <hr />
+      &copy; 2015 &ndash;
+      <script type="text/javascript">
+        now = new Date
+        theYear = now.getYear()
+        if (theYear < 1900)
+          theYear = theYear+1900
+        document.write(theYear)
+      </script>
+      Rahul Parhi
     </div>
 
   </body>
