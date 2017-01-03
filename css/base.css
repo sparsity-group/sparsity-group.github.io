@@ -109,9 +109,27 @@ ul.navigation li {
 div.footer {
   font-family: 'PT Serif', serif;
   text-align: center;
+  height: 40px; /* 40 from below */
   padding-bottom: 10px;
+  position: absolute;
+
+  /* magic trick to center the footer when absolute */
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
 }
 
 div.content {
-   margin: auto;
+  margin: auto;
+}
+
+div.main {
+  min-height:100%;
+  height: auto !important;
+  padding-bottom: 40px; /* 40 from above */
+}
+
+#container {
+  min-height: 100%;
+  position: relative;
 }

@@ -51,53 +51,53 @@
   </head>
 
   <body>
+    <div id="container">
+      <ul class="navigation">
+        <div class="content">
+        <li id="name" class="shadow"><a href="/">Rahul Parhi</a></li>
 
-    <ul class="navigation">
-      <div class="content">
-      <li id="name" class="shadow"><a href="/">Rahul Parhi</a></li>
+        <li class="dropdown">
+          <div class="dropdown-button svg-wrapper">
+            <svg class=shadow
+              height="26"
+              id="menu"
+              viewBox="0 0 34 26"
+              width="34"
+              xml:space="preserve">
+              <a xlink:href="javaScript:void(0);">
+              <path
+               d="M 5,7 29,7 C 30.104,7 31,6.104 31,5 31,3.896 30.104,3 29,3 L 5,3 C 3.896,3 3,3.896 3,5 3,6.104 3.896,7 5,7 Z m 24,4 -24,0 c -1.104,0 -2,0.896 -2,2 0,1.104 0.896,2 2,2 l 24,0 c 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 z m 0,8 -24,0 c -1.104,0 -2,0.896 -2,2 0,1.104 0.896,2 2,2 l 24,0 c 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 z"
+               id="path3384"/>
+              </a>
+            </svg>
+          </div>
+          <div class="dropdown-content">
+            <a href="/">Home</a>
+            <a href="/about/">About</a>
+            <a href="/contact/">Contact</a>
+            <a href="/cv/">CV</a>
+          </div>
+        </li>
+        </div>
+      </ul>
 
-      <li class="dropdown">
-        <div class="dropdown-button svg-wrapper">
-          <svg class=shadow
-            height="26"
-            id="menu"
-            viewBox="0 0 34 26"
-            width="34"
-            xml:space="preserve">
-            <a xlink:href="javaScript:void(0);">
-            <path
-             d="M 5,7 29,7 C 30.104,7 31,6.104 31,5 31,3.896 30.104,3 29,3 L 5,3 C 3.896,3 3,3.896 3,5 3,6.104 3.896,7 5,7 Z m 24,4 -24,0 c -1.104,0 -2,0.896 -2,2 0,1.104 0.896,2 2,2 l 24,0 c 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 z m 0,8 -24,0 c -1.104,0 -2,0.896 -2,2 0,1.104 0.896,2 2,2 l 24,0 c 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 z"
-             id="path3384"/>
-            </a>
-          </svg>
-        </div>
-        <div class="dropdown-content">
-          <a href="/">Home</a>
-          <a href="/about/">About</a>
-          <a href="/contact/">Contact</a>
-          <a href="/cv/">CV</a>
-        </div>
-      </li>
+      <div class="content main">
+        <h2>$title$</h2>
+        $body$
       </div>
-    </ul>
 
-    <div class="content">
-      <h2>$title$</h2>
-      $body$
+      <div class="footer content">
+        <hr />
+        &copy; 2015 &ndash;
+        <script type="text/javascript">
+          now = new Date
+          theYear = now.getYear()
+          if (theYear < 1900)
+            theYear = theYear+1900
+          document.write(theYear)
+        </script>
+        Rahul Parhi
+      </div>
     </div>
-
-    <div class="footer content">
-      <hr />
-      &copy; 2015 &ndash;
-      <script type="text/javascript">
-        now = new Date
-        theYear = now.getYear()
-        if (theYear < 1900)
-          theYear = theYear+1900
-        document.write(theYear)
-      </script>
-      Rahul Parhi
-    </div>
-
   </body>
 </html>
