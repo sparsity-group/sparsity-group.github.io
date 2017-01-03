@@ -14,12 +14,21 @@
     $endif$
 
     <!-- font-family: 'Open Sans', sans-serif; -->
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans'
+          rel='stylesheet'
+          type='text/css'>
     <!-- font-family: 'PT Serif', serif; -->
-    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700'
+          rel='stylesheet'
+          type='text/css'>
     <!-- font-family: 'PT Mono', monospace; -->
-    <link href='https://fonts.googleapis.com/css?family=PT+Mono' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="/css/default.css" />
+    <link href='https://fonts.googleapis.com/css?family=PT+Mono'
+          rel='stylesheet'
+          type='text/css'>
+
+    <link rel="stylesheet" href="/css/base.css" />
+    <link rel="stylesheet" href="/css/desktop.css" />
+    <link rel="stylesheet" href="/css/mobile.css" />
     <link rel="icon" href="/favicon.png" type="image/x-icon">
 
     <script>
@@ -45,48 +54,34 @@
 
     <ul class="navigation">
       <div class="content">
-        <li id="name"><a href="/">Rahul Parhi</a></li>
+      <li id="name" class="shadow"><a href="/">Rahul Parhi</a></li>
 
-        <div class="dropdown">
-        <li id="menu">
-            <div class="dropdown-button svg-wrapper">
-              <svg
-                 xmlns:dc="http://purl.org/dc/elements/1.1/"
-                 xmlns:cc="http://creativecommons.org/ns#"
-                 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-                 xmlns:svg="http://www.w3.org/2000/svg"
-                 xmlns="http://www.w3.org/2000/svg"
-                 xmlns:xlink="http://www.w3.org/1999/xlink"
-                 xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-                 xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-                 height="26"
-                 id="menu"
-                 viewBox="0 0 34 26"
-                 width="34"
-                 xml:space="preserve"
-                 version="1.1"
-                 inkscape:version="0.91 r13725"
-                 sodipodi:docname="menu.svg">
-                <g>
-                <path
-                 d="M 5,7 29,7 C 30.104,7 31,6.104 31,5 31,3.896 30.104,3 29,3 L 5,3 C 3.896,3 3,3.896 3,5 3,6.104 3.896,7 5,7 Z m 24,4 -24,0 c -1.104,0 -2,0.896 -2,2 0,1.104 0.896,2 2,2 l 24,0 c 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 z m 0,8 -24,0 c -1.104,0 -2,0.896 -2,2 0,1.104 0.896,2 2,2 l 24,0 c 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 z"
-                 id="path3384"
-                 inkscape:connector-curvature="0" />
-                </g>
-              </svg>
-            </div>
-        </li>
-        <div class="dropdown-content">
-          <li><a href="/cv/">CV</a></li>
-          <li><a href="/contact/">Contact</a></li>
-          <li><a href="/about/">About</a></li>
-          <li><a href="/">Home</a></li>
+      <li class="dropdown">
+        <div class="dropdown-button svg-wrapper">
+          <svg class=shadow
+            height="26"
+            id="menu"
+            viewBox="0 0 34 26"
+            width="34"
+            xml:space="preserve">
+            <a xlink:href="javaScript:void(0);">
+            <path
+             d="M 5,7 29,7 C 30.104,7 31,6.104 31,5 31,3.896 30.104,3 29,3 L 5,3 C 3.896,3 3,3.896 3,5 3,6.104 3.896,7 5,7 Z m 24,4 -24,0 c -1.104,0 -2,0.896 -2,2 0,1.104 0.896,2 2,2 l 24,0 c 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 z m 0,8 -24,0 c -1.104,0 -2,0.896 -2,2 0,1.104 0.896,2 2,2 l 24,0 c 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 z"
+             id="path3384"/>
+            </a>
+          </svg>
         </div>
-          </div>
+        <div class="dropdown-content">
+          <a href="/">Home</a>
+          <a href="/about/">About</a>
+          <a href="/contact/">Contact</a>
+          <a href="/cv/">CV</a>
+        </div>
+      </li>
       </div>
     </ul>
 
-    <div class="content main">
+    <div class="content">
       <h2>$title$</h2>
       $body$
     </div>

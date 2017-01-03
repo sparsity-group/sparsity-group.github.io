@@ -57,7 +57,7 @@ main = hakyllWith config $ do
     route   flatRoute
     compile copyFileCompiler
 
-  match (fromList ["CNAME", "favicon.png"]) $ do
+  match (fromList ["CNAME", "favicon.png", "robots.txt"]) $ do
     route   idRoute
     compile copyFileCompiler
 
