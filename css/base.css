@@ -12,6 +12,10 @@ h1,h2,h3,h4,h5,h6,p,table {
   font-family: 'Open Sans', sans-serif;
 }
 
+td {
+  padding: 0 10px 0 0;
+}
+
 a {
   outline: 0px;
 }
@@ -75,7 +79,7 @@ div.svg-wrapper {
 }
 
 .shadow:hover, .shadow:active {
-  filter: drop-shadow( 0px 0px 26px rgba(255,255,255,1) ); /* 26 for reasons */
+  filter: drop-shadow( 0px 0px 30px rgba(255,255,255,1) ); /* 30 for reasons */
 }
 
 div.nav-container {
@@ -97,12 +101,12 @@ ul.navigation a, ul.navigation svg {
   text-decoration: none;
   color: inherit;
   padding: 15px 20px; /* this is where 20 + 20 below comes from */
-  line-height: 26px; /* same as 26 below */
+  line-height: 30px; /* same as 30 below */
 }
 
 ul.navigation li#name {
   float: left;
-  font-size: 26px; /* same as 26 above */
+  font-size: 30px; /* same as 30 above */
 }
 
 ul.navigation li {
