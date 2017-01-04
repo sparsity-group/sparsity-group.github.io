@@ -78,15 +78,18 @@ div.svg-wrapper {
   filter: drop-shadow( 0px 0px 26px rgba(255,255,255,1) ); /* 26 for reasons */
 }
 
-ul.navigation {
+div.nav-container {
   font-family:'PT Serif', serif;
-  list-style-type: none;
-  margin: 0px;
-  padding: 0px;
   overflow: hidden;
   background-color:#333333;
   color: #e7e7e7;
   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+ul.navigation {
+  list-style-type: none;
+  margin: auto;
+  padding: 0px;
 }
 
 ul.navigation a, ul.navigation svg {
