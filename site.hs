@@ -61,6 +61,10 @@ main = hakyllWith config $ do
     route   idRoute
     compile copyFileCompiler
 
+  match "img/*" $ do
+    route   idRoute
+    compile copyFileCompiler
+
   match "templates/*" $ compile templateBodyCompiler
 
 --------------------------------------------------------------------------------
