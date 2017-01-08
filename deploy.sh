@@ -1,16 +1,10 @@
-#!/bin/bash
+#!/bin/sh
 
 cd _site
 
-# Super hacky and terrible practice. DO NOT DO THIS
-git clone https://github.com/rp/rp.github.io.git old
-mv old/.git .
-
-echo -n "Commit Message: " ; read -e msg
-
-rm -rf old
+git init
+git remote add origin https://github.com/rp/rp.github.io.git
 git add .
-git commit -m "Deploy: $msg"
-
-git push
+git commit -m "deploy"
+git push --set-upstream origin master --force
 rm -rf .git
