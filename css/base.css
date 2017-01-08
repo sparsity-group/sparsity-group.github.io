@@ -139,7 +139,11 @@ div.main {
 
 div.main a:hover {
   text-shadow: 2px 2px 15px #666666;
-  color: #7b0000;
+  color: #6b0000;
+}
+
+div.main li {
+  margin: 0px 0px 5px 0px;
 }
 
 .dark-shadow:hover {
