@@ -4,8 +4,7 @@ root: true
 ---
 
 &nbsp;  
-Hi.
+Hi. I'm Rahul Parhi. This is my site.
 
-This is the website for Rahul Parhi. There isn't too much on this site yet, but
-feel free to look around. Eventually I'll add stuff (hopefully within 50 years!),
-but for now it's a work in progress.
+There isn't too much here yet, but feel free to look around. Eventually I'll add
+more stuff (hopefully within 50 years!), but for now it's a work in progress.
