@@ -4,11 +4,13 @@ import           Data.Monoid (mappend)
 import           Hakyll
 
 import           System.FilePath.Posix  (takeBaseName, takeDirectory,
-                                         (</>), takeFileName, splitPath)
+                                         (</>), takeFileName, splitPath,
+                                         joinPath, replaceExtension)
+import           System.Process         (system)
 
 --------------------------------------------------------------------------------
 
--- CUSTOM ROUTES {{{
+-- ROUTES {{{
 
 -- have clean URLs
 -- from https://www.rohanjain.in/hakyll-clean-urls/
@@ -16,29 +18,37 @@ cleanRoute :: Routes
 cleanRoute = customRoute createIndexRoute
   where
     createIndexRoute ident = takeDirectory p </> takeBaseName p </> "index.html"
-                            where p = toFilePath ident
+                             where p = toFilePath ident
 
--- flatten everything to top-level directory
-flatRoute :: Routes
-flatRoute = customRoute createFlatRoute
+-- flatten everything to specified top directory levels
+flatRoute :: Int -> Routes
+flatRoute x = customRoute $ createFlatRoute
   where
-    createFlatRoute ident = d!!0 </> takeFileName p
-                            where d = splitPath p
+    createFlatRoute ident = p' </> takeFileName p
+                            where p' = joinPath $ take x $ splitPath p
                                   p = toFilePath ident
 
 -- }}}
 
--- DEPLOY {{{
+-- COMPILERS {{{
+
+-- }}}
+
+-- CONFIG {{{
+
 config :: Configuration
 config = defaultConfiguration
     { deployCommand = "./deploy.sh" }
+
 -- }}}
+
+-- MAIN {{{
 
 main :: IO ()
 main = hakyllWith config $ do
 
-  match (fromList ["about.md", "contact.md", "cv.md"]) $ do
-    route   $ cleanRoute
+  match "pages/*" $ do
+    route   $ flatRoute 0 `composeRoutes` cleanRoute
     compile $ pandocCompiler
       >>= loadAndApplyTemplate "templates/default.html" defaultContext
       >>= relativizeUrls
@@ -53,9 +63,9 @@ main = hakyllWith config $ do
     route   idRoute
     compile compressCssCompiler
 
-  match "files/**/*.pdf" $ do
-    route   flatRoute
-    compile copyFileCompiler
+  match "files/**.pdf" $ do
+    route   $ flatRoute 1
+    compile   copyFileCompiler
 
   match (fromList ["CNAME", "favicon.png", "robots.txt"]) $ do
     route   idRoute
@@ -67,8 +77,4 @@ main = hakyllWith config $ do
 
   match "templates/*" $ compile templateBodyCompiler
 
---------------------------------------------------------------------------------
-postCtx :: Context String
-postCtx =
-  dateField "date" "%B %e, %Y" `mappend`
-  defaultContext
+-- }}}
