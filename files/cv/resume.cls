@@ -10,6 +10,7 @@
 \usepackage{multirow}
 \usepackage{multicol}
 \usepackage{tabularx}
+\usepackage{scrextend}
 \usepackage[usenames,dvipsnames]{xcolor}
 
 \usepackage{hyperref}
@@ -17,6 +18,14 @@
 \hypersetup{colorlinks,breaklinks,urlcolor=linkcolour,linkcolor=linkcolour}
 %\newenvironment{cmr}{\fontfamily{cmr}\selectfont}{\par}
 %\DeclareTextFontCommand{\textcmr}{\cmr}
+
+% tabularx multicolumn hacks
+\newcommand{\mcX}[2]{\multicolumn{#1}{>{\setlength{\hsize}{#1\hsize}}X}{#2}}
+\newcommand{\mc}[3]{\multicolumn{#1}{#2}{#3}}
+
+\def\labelitemi{--}
+
+\setlength{\multicolsep}{6.0pt plus 2.0pt minus 1.5pt}% 50% of original values
 
 \pagestyle{empty}
 
