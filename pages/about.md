@@ -18,6 +18,6 @@ generator which is written in
 <a href="http://www.haskell.org/"><img class="dark-shadow" style='vertical-align:middle;' alt="Haskell" title="Haskell" src="/img/haskell.svg" height="25"></a>.
 All the content is written in [Markdown](http://daringfireball.net/projects/markdown/) using
 <a href="http://www.vim.org/"><img class="dark-shadow" style='vertical-align:middle;' alt="Vim" title="Vim" src="/img/vim.svg" height="35"></a>.
-The design of this site was made be [me](. "recursion, we meet again"), that's why it's so ugly.
+The design of this site was made by [me](. "recursion, we meet again"), that's why it's so ugly.
 
 The source for this site can be found on GitHub [here](http://github.com/rp/rp.github.io/tree/dev/).
