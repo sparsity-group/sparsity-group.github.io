@@ -12,6 +12,7 @@
 \usepackage{tabularx}
 \usepackage{scrextend}
 \usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{enumitem}
 
 \usepackage{hyperref}
 \definecolor{linkcolour}{rgb}{0.0,0.0,0.3}
