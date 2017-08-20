@@ -34,7 +34,7 @@ deploy() {
     push
 }
 
-if [ -d "$DIRECTORY" ]; then
+if [ -d "_site" ]; then
     deploy
 else
     stack exec site build
