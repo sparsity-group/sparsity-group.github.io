@@ -38,7 +38,7 @@ flatRoute x = customRoute $ createFlatRoute
 
 config :: Configuration
 config = defaultConfiguration
-    { deployCommand = "./deploy.sh" }
+    { deployCommand = "./deploy" }
 
 -- }}}
 
@@ -62,10 +62,6 @@ main = hakyllWith config $ do
   match "css/*" $ do
     route   idRoute
     compile compressCssCompiler
-
-  match "files/**.pdf" $ do
-    route   $ flatRoute 1
-    compile   copyFileCompiler
 
   match (fromList ["CNAME", "favicon.png", "robots.txt"]) $ do
     route   idRoute
