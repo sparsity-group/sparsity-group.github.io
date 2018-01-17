@@ -1,12 +1,12 @@
 ---
-title: Résumé
+title: R&eacute;sum&eacute;
 ---
 
-Résumé
+R&eacute;sum&eacute;
 --
 
-A one-page PDF of my résumé is a available
+A one-page PDF of my r&eacute;sum&eacute; is a available
 [here](http://files.rahul.sh/rahulparhi_resume.pdf).
 
 A PDF of my CV is available [here](http://files.rahul.sh/rahulparhi_cv.pdf)
-(which is literally the same thing as the résumé, but with publications).
+(which is literally the same thing as the r&eacute;sum&eacute;, but with publications).
