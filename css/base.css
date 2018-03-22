@@ -27,11 +27,6 @@ table {
   border-collapse: collapse;
 }
 
-div {
-  text-align: justify;
-  text-justify: inter-word;
-}
-
 code, pre {
   color: inherit;
   font-family: 'PT Mono', monospace;
