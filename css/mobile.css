@@ -29,6 +29,37 @@
     display: block;
   }
 
+  li.dropdown div.dropdown-button span {
+    display: block;
+    width: 33px;
+    height: 4px;
+    margin-bottom: 5px;
+    position: relative;
+
+    background: #e7e7e7;
+    border-radius: 3px;
+
+    z-index: 1;
+  }
+
+  li.dropdown div.dropdown-button span:last-child {
+    display: block;
+    width: 33px;
+    height: 4px;
+    margin-bottom: 0px;
+    position: relative;
+
+    background: #e7e7e7;
+    border-radius: 3px;
+
+    z-index: 1;
+  }
+
+  li.dropdown div.dropdown-button {
+    padding: 19px 20px; /* gets the height to add up to 60 since the height is 30 (from name font size) + 30 (defined size in base */
+    cursor: pointer;
+  }
+
   div.content {
     width: 90%;
   }
