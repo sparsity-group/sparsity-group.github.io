@@ -5,11 +5,10 @@ title: About
 About
 -----
 
-I'm currently an undergraduate student at the [University of Minnesota &ndash;
-Twin Cities](http://twin-cities.umn.edu/) double majoring in
-[Mathematics](http://math.umn.edu/) and [Computer Science](http://www.cs.umn.edu/),
-minoring in [Physics](http://www.physics.umn.edu/). I plan to graduate in May of
-2018.
+I (recently) graduated from the the [University of Minnesota&mdash;Twin Cities](http://twin-cities.umn.edu/)
+with a B.S. in [Mathematics](http://math.umn.edu/),
+B.S. in [Computer Science](http://www.cs.umn.edu/),
+and minor in [Physics](http://www.physics.umn.edu/) in May 2018.
 
 ### Site
 
