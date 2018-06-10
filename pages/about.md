@@ -8,7 +8,7 @@ About
 I (recently) graduated from the the [University of Minnesota&mdash;Twin Cities](http://twin-cities.umn.edu/)
 with a B.S. in [Mathematics](http://math.umn.edu/),
 B.S. in [Computer Science](http://www.cs.umn.edu/),
-and minor in [Physics](http://www.physics.umn.edu/) in May 2018.
+and a minor in [Physics](http://www.physics.umn.edu/) in May 2018.
 
 ### Site
 

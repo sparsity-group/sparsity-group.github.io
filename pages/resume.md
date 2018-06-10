@@ -1,10 +1,10 @@
 ---
-title: R&eacute;sum&eacute;
+title: Resume
 ---
 
-R&eacute;sum&eacute;
+Resume
 --
 
-A one-page PDF of my r&eacute;sum&eacute; is a available
+A one-page PDF of my resume is a available
 [here](http://files.rahul.sh/rahulparhi_resume.pdf).
 
