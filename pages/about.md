@@ -17,4 +17,5 @@ generator.  All the content is written in [Markdown](http://daringfireball.net/p
 <a href="http://www.vim.org/"><img class="dark-shadow" style='vertical-align:middle;' alt="Vim" title="Vim" src="/img/vim.svg" height="35"></a>.
 The design of this site was made by [me](. "recursion, we meet again"), that's why it's so ugly.
 
-The source for this site can be found on GitHub [here](http://github.com/rp/rp.github.io/tree/dev/).
+The source for this site can be found on GitLab
+[here](https://gitlab.com/rp/site).
