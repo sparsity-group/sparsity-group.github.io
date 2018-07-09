@@ -1,6 +1,6 @@
-This site is build using [Hakyll](https://jaspervdj.be/hakyll/) and uses
+This site is built using [Hakyll](https://jaspervdj.be/hakyll/) and uses
 [`stack`](https://docs.haskellstack.org/en/stable/README/) for building the
-site. To work on this site you'll want to install Hakyll:
+site. To develop this site you'll want to install Hakyll:
 
 ```
 $ stack install hakyll
@@ -31,6 +31,6 @@ $ stack exec site deploy
 ```
 or simply
 ```
-./deploy
+$ ./deploy
 ```
 
