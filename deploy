@@ -26,10 +26,10 @@ ftp = ftplib.FTP(server, username, password)
 
 def make_site():
     cp = sp.run(['stack', 'exec', 'site', 'rebuild'], stdout=sp.PIPE)
-    logger.info("clean building site")
     if cp.returncode != 0:
         logger.error("building site failed")
         sys.exit(1)
+    logger.info("clean building site")
 
 
 def ftp_upload_dir(path, remote_path=None):
@@ -73,6 +73,7 @@ def ftp_upload_dir(path, remote_path=None):
             ftp_upload_dir(fpath)
         else:
             logger.error("{} is neither a file nor a directory".format(fpath))
+            sys.exit(1)
 
     ftp.cwd('..')
     os.chdir('..')
