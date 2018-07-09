@@ -63,7 +63,7 @@ main = hakyllWith config $ do
     route   idRoute
     compile compressCssCompiler
 
-  match (fromList ["CNAME", "favicon.png", "robots.txt"]) $ do
+  match (fromList ["favicon.png", "robots.txt"]) $ do
     route   idRoute
     compile copyFileCompiler
 
