@@ -53,7 +53,7 @@ main = hakyllWith config $ do
       >>= loadAndApplyTemplate "templates/default.html" defaultContext
       >>= relativizeUrls
 
-  match "index.md" $ do
+  match (fromList ["index.md", "404.md"])  $ do
     route   $ setExtension "html"
     compile $ pandocCompiler
       >>= loadAndApplyTemplate "templates/default.html" defaultContext
