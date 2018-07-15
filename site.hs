@@ -57,7 +57,6 @@ main = hakyllWith config $ do
     route   $ setExtension "html"
     compile $ pandocCompiler
       >>= loadAndApplyTemplate "templates/default.html" defaultContext
-      >>= relativizeUrls
 
   match "css/*" $ do
     route   idRoute
