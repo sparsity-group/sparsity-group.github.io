@@ -14,16 +14,16 @@ mean I'm not working on it at all).
 ### Brief Biography
 
 
-I'm an incoming [Electrical
+I'm currently a 1<sup>st</sup> [Electrical
 Engineering](https://www.engr.wisc.edu/department/electrical-computer-engineering/)
 Ph.D. student at the [University of
-Wisconsin&ndash;Madison](https://www.wisc.edu/) starting in September 2018.
+Wisconsin&ndash;Madison](https://www.wisc.edu/).
 
-Before that, I graduated from the [University of Minnesota&ndash;Twin
+Before that, I had graduated from the [University of Minnesota&ndash;Twin
 Cities](https://twin-cities.umn.edu/) in May 2018 with a B.S. in
 [Mathematics](https://math.umn.edu/), B.S. in [Computer
 Science](https://www.cs.umn.edu/), and a minor in
-[Physics](https://www.physics.umn.edu/). During my undergraduate career I spent
+[Physics](https://www.physics.umn.edu/). While I was an undergraduate, I spent
 two summers interning at [Amazon](https://www.amazon.com/).
 
 #### About this site
