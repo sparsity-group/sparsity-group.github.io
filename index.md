@@ -14,7 +14,7 @@ mean I'm not working on it at all).
 ### Brief Biography
 
 
-I'm currently a 1<sup>st</sup> [Electrical
+I'm currently a 1<sup>st</sup> year [Electrical
 Engineering](https://www.engr.wisc.edu/department/electrical-computer-engineering/)
 Ph.D. student at the [University of
 Wisconsin&ndash;Madison](https://www.wisc.edu/).
