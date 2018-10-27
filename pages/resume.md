@@ -6,7 +6,7 @@ Resume
 --
 
 A PDF of my resume is a available
-[here](http://files.rahul.sh/rahulparhi_resume.pdf). HTML version coming soon!
+[here](https://files.rahul.sh/rahulparhi_resume.pdf). HTML version coming soon!
 
 If you think my resume looks neat, you can use the
 [`cv.cls`](https://gitlab.com/rp/texmf/blob/master/tex/latex/rahul/cv.cls) <span

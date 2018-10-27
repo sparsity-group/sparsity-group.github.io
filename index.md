@@ -17,7 +17,8 @@ mean I'm not working on it at all).
 I'm currently a 1<sup>st</sup> year [Electrical
 Engineering](https://www.engr.wisc.edu/department/electrical-computer-engineering/)
 Ph.D. student at the [University of
-Wisconsin&ndash;Madison](https://www.wisc.edu/).
+Wisconsin&ndash;Madison](https://www.wisc.edu/) where I am advised by [Robert
+Nowak](https://nowak.ece.wisc.edu/).
 
 Before that, I had graduated from the [University of Minnesota&ndash;Twin
 Cities](https://twin-cities.umn.edu/) in May 2018 with a B.S. in
@@ -37,6 +38,6 @@ height="35"></a> (never `emacs`, unless, of course, you use [evil
 mode](https://www.emacswiki.org/emacs/Evil)).  The design of this site was made
 by [me](. "recursion, we meet again"), that's why it's so ugly.
 
-The source for this site can be found on GitLab
+The source for this site can be found on my GitLab
 [here](https://gitlab.com/rp/site).
 
