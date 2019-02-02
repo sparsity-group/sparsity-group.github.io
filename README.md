@@ -34,3 +34,8 @@ or simply
 $ ./deploy
 ```
 
+For math,
+
+* The `katex` folder of the latest KaTex
+  [release](https://github.com/Khan/KaTeX/releases) must be added to the root
+  directory of this repo.

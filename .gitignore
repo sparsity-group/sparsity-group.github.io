@@ -7,6 +7,9 @@
 *.bbl
 *.pdf
 
+# KaTeX stuff
+katex
+
 # Hakyll stuff
 _cache/
 _site/

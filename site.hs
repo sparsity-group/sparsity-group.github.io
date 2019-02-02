@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
-import           Data.Monoid (mappend)
+import           Data.Monoid            ((<>))
 import           Hakyll
 
 import           System.FilePath.Posix  (takeBaseName, takeDirectory,
@@ -30,10 +30,6 @@ flatRoute x = customRoute $ createFlatRoute
 
 -- }}}
 
--- COMPILERS {{{
-
--- }}}
-
 -- CONFIG {{{
 
 config :: Configuration
@@ -49,7 +45,18 @@ main = hakyllWith config $ do
 
   match "pages/*" $ do
     route   $ flatRoute 0 `composeRoutes` cleanRoute
-    compile $ pandocCompiler
+    compile $ do
+      identifier <- getUnderlying
+      mdBibFile  <- getMetadataField identifier "bibfile"
+      mdCslFile  <- getMetadataField identifier "cslfile"
+      bibFile    <- case mdBibFile of
+        Nothing  -> return "bib/default.bib"
+        Just bib -> return bib
+      cslFile    <- case mdCslFile of
+        Nothing  -> return "csl/default.csl"
+        Just csl -> return csl
+      pandocBiblioCompiler
+              cslFile bibFile
       >>= loadAndApplyTemplate "templates/default.html" defaultContext
       >>= relativizeUrls
 
@@ -57,19 +64,19 @@ main = hakyllWith config $ do
     route   $ setExtension "html"
     compile $ pandocCompiler
       >>= loadAndApplyTemplate "templates/default.html" defaultContext
+      >>= relativizeUrls
 
   match "css/*" $ do
     route   idRoute
     compile compressCssCompiler
 
-  match (fromList ["favicon.png", "robots.txt"]) $ do
-    route   idRoute
-    compile copyFileCompiler
-
-  match "img/*" $ do
-    route   idRoute
+  let toCopy = "favicon.png" .||. "robots.txt" .||. "img/**" .||. "katex/**"
+  match toCopy $ do
+    route idRoute
     compile copyFileCompiler
 
   match "templates/*" $ compile templateBodyCompiler
+  match "bib/*.bib" $ compile biblioCompiler
+  match "csl/*.csl" $ compile cslCompiler
 
 -- }}}
