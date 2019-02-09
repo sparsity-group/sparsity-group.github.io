@@ -27,7 +27,7 @@ Science](https://www.cs.umn.edu/), and a minor in
 [Physics](https://www.physics.umn.edu/). While I was an undergraduate, I spent
 two summers interning at [Amazon](https://www.amazon.com/).
 
-#### About this site
+### About this site
 
 This site is built using the [Hakyll](http://jaspervdj.be/hakyll/) static site
 generator.  Everything is written in

@@ -1,16 +1,24 @@
-html,body {
+html {
+  overflow-y: scroll;
+}
+
+html, body {
   margin: 0px;
   padding: 0px;
   border: 0px;
   height: 100%;
   background-color: #efefef;
   max-width: 100%;
-  overflow-x: hidden;
   color: black;
+  font-size: large;
 }
 
-h1,h2,h3,h4,h5,h6,p,table {
-  font-family: 'Open Sans', sans-serif;
+h1, h2, h3, h4, h5, h6, table {
+  font-family: 'KaTeX_SansSerif', sans-serif;
+}
+
+p {
+  font-family: 'KaTeX_Main', sans-serif;
 }
 
 td {
@@ -27,9 +35,16 @@ table {
   border-collapse: collapse;
 }
 
+div {
+  text-align: justify;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+
 code, pre {
   color: inherit;
-  font-family: 'PT Mono', monospace;
+  font-family: 'KaTeX_Typewriter', monospace;
   font-size: 90%;
   padding: 2px;
 }
@@ -82,11 +97,11 @@ div.svg-wrapper {
 }
 
 div.nav-container {
-  font-family:'PT Serif', serif;
-  overflow: hidden;
   background-color:#333333;
-  color: #e7e7e7;
   box-shadow: 0 3px 6px rgba(0,0,0,0.19), 0 3px 6px rgba(0,0,0,0.23);
+  color: #e7e7e7;
+  font-family:'KaTeX_Main', serif;
+  overflow: hidden;
 }
 
 ul.navigation {
@@ -95,7 +110,7 @@ ul.navigation {
   padding: 0px;
 }
 
-ul.navigation a, ul.navigation svg {
+ul.navigation a {
   display: inline-block;
   color: inherit;
   padding: 15px 20px; /* this is where 20 + 20 below comes from */
@@ -112,7 +127,7 @@ ul.navigation li {
 }
 
 div.footer {
-  font-family: 'PT Serif', serif;
+  font-family: 'KaTeX_Main', serif;
   text-align: center;
   height: 40px; /* 40 from below */
   padding-bottom: 10px;
@@ -134,6 +149,10 @@ div.main {
   padding-bottom: 40px; /* 40 from above */
 }
 
+div.main a {
+  font-family: 'KaTeX_SansSerif', sans-serif;
+}
+
 div.main a:hover {
   text-shadow: 2px 2px 15px #666666;
   color: #6b0000;
@@ -150,33 +169,7 @@ div.main li {
 
 #container {
   min-height: 100%;
-  position: relative;
-}
-
-/* <span class="tex">T<sub>e</sub>X</span> */
-/* <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> */
-.tex, .latex {
-  font-family:'PT Serif', serif;
-}
-
-.tex sub, .latex sub, .latex sup {
-  text-transform: uppercase;
-}
-
-.tex sub, .latex sub {
-  vertical-align: -0.5ex;
-  margin-left: -0.1667em;
-  margin-right: -0.125em;
-}
-
-.tex, .latex, .tex sub, .latex sub {
-  font-size: 1em;
-}
-
-.latex sup {
-  font-size: 0.85em;
-  vertical-align: 0.15em;
-  margin-left: -0.36em;
-  margin-right: -0.15em;
+  position: absolute;
+  width: 100%;
 }
 
