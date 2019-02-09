@@ -14,3 +14,6 @@ katex
 _cache/
 _site/
 .stack-work/
+
+# other stuff
+cv

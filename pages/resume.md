@@ -4,7 +4,7 @@ katex: true
 ---
 
 Resume
---
+------
 
 A PDF of my resume is a available
 [here](https://files.rahul.sh/rahulparhi_resume.pdf). HTML version coming soon!
