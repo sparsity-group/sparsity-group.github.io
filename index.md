@@ -21,7 +21,7 @@ Wisconsin&ndash;Madison](https://www.wisc.edu/) where I am advised by [Robert
 Nowak](https://nowak.ece.wisc.edu/).
 
 Before that, I had graduated from the [University of Minnesota&ndash;Twin
-Cities](https://twin-cities.umn.edu/) in May 2018 with a B.S. in
+Cities](https://twin-cities.umn.edu/) in May 2018 where I received a B.S. in
 [Mathematics](https://math.umn.edu/), B.S. in [Computer
 Science](https://www.cs.umn.edu/), and a minor in
 [Physics](https://www.physics.umn.edu/). While I was an undergraduate, I spent

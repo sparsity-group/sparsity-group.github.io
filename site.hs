@@ -70,7 +70,7 @@ main = hakyllWith config $ do
     route   idRoute
     compile compressCssCompiler
 
-  let toCopy = "favicon.png" .||. "robots.txt" .||. "img/**" .||. "katex/**"
+  let toCopy = "favicon.png" .||. "robots.txt" .||. "img/**" .||. "katex/**" .||. "js/**"
   match toCopy $ do
     route idRoute
     compile copyFileCompiler
