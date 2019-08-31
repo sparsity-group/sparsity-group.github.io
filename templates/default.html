@@ -20,6 +20,9 @@
     <link rel="stylesheet" href="/css/syntax.css" />
     <link rel="icon" href="/favicon.png" type="image/x-icon">
     <link rel="stylesheet" href="/katex/katex.min.css">
+    <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/cmu-serif" type="text/css"/>
+    <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/cmu-sans-serif" type="text/css"/>
+    <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/cmu-typewriter" type="text/css"/>
 
     <script defer src="/js/csi.min.js"></script>
 
@@ -29,23 +32,6 @@
                     onload="renderMathInElement(document.body);">
       </script>
     $endif$
-
-    <script>
-      (function (b, o, i, l, e, r) {
-        b.GoogleAnalyticsObject = l;
-        b[l] || (b[l] =
-                    function () {
-                      (b[l].q = b[l].q || []).push(arguments)
-                    });
-        b[l].l = +new Date;
-        e = o.createElement(i);
-        r = o.getElementsByTagName(i)[0];
-        e.src = '//www.google-analytics.com/analytics.js';
-        r.parentNode.insertBefore(e, r)
-      }(window, document, 'script', 'ga'));
-      ga('create', 'UA-66619819-1', 'auto');
-      ga('send', 'pageview');
-    </script>
 
   </head>
 
@@ -64,7 +50,8 @@
             <div class="dropdown-content">
               <a href="/">Home</a>
               <a href="/contact/">Contact</a>
-              <a href="/resume/">Resume</a>
+              <a href="/publications/">Publications</a>
+              <a href="/resume/">R&#233;sum&#233;</a>
             </div>
           </li>
         </ul>
@@ -87,5 +74,14 @@
         Rahul Parhi
       </div>
     </div>
+
+    <script>
+      var refs = document.getElementById("refs");
+      if(typeof refs !== 'undefined' && refs !== null) {
+        refs = refs.innerHTML;
+        refs = refs.replace(/Rahul Parhi/g, "<span class=\"name-refs\">Rahul Parhi</span>");
+        document.getElementById("refs").innerHTML = refs;
+      }
+    </script>
   </body>
 </html>

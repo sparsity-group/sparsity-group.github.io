@@ -14,11 +14,11 @@ html, body {
 }
 
 h1, h2, h3, h4, h5, h6, table {
-  font-family: 'KaTeX_SansSerif', sans-serif;
+  font-family: 'CMUSansSerifBold', sans-serif;
 }
 
 p, li, ul {
-  font-family: 'KaTeX_Main', sans-serif;
+  font-family: 'CMUSerifRoman', sans-serif;
 }
 
 td {
@@ -44,7 +44,7 @@ div {
 
 code, pre {
   color: inherit;
-  font-family: 'KaTeX_Typewriter', monospace;
+  font-family: 'CMUTypewriterTextRegular', monospace;
   font-size: 90%;
   padding: 2px;
 }
@@ -100,7 +100,6 @@ div.nav-container {
   background-color:#333333;
   box-shadow: 0 3px 6px rgba(0,0,0,0.19), 0 3px 6px rgba(0,0,0,0.23);
   color: #e7e7e7;
-  font-family:'KaTeX_Main', serif;
   overflow: hidden;
 }
 
@@ -110,10 +109,14 @@ ul.navigation {
   padding: 0px;
 }
 
+li#name, div.dropdown-content {
+  font-family: 'CMUSansSerifMedium', sans-serif;
+}
+
 ul.navigation a {
   display: inline-block;
   color: inherit;
-  padding: 15px 20px; /* this is where 20 + 20 below comes from */
+  padding: 15px 20px 10px 20px; /* this is where 20 + 20 below comes from */
   line-height: 30px; /* same as 30 below */
 }
 
@@ -127,7 +130,7 @@ ul.navigation li {
 }
 
 div.footer {
-  font-family: 'KaTeX_Main', serif;
+  font-family: 'CMUSerifRoman', serif;
   text-align: center;
   height: 40px; /* 40 from below */
   padding-bottom: 10px;
@@ -150,7 +153,8 @@ div.main {
 }
 
 div.main a {
-  font-family: 'KaTeX_SansSerif', sans-serif;
+  font-family: 'CMUSansSerifMedium', sans-serif;
+  font-weight: 100;
 }
 
 div.main a:hover {
@@ -173,3 +177,12 @@ div.main li {
   width: 100%;
 }
 
+div.resume .section {
+  font-family: 'CMUSansSerifBold', sans-serif;
+  font-weight: bold;
+}
+
+.name-refs {
+  font-family: 'CMUSansSerifBold', sans-serif;
+  font-weight: bold;
+}
