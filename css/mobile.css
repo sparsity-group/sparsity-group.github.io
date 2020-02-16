@@ -67,4 +67,14 @@
   ul.navigation {
     width: 100%;
   }
+
+  #rahul-img-mobile {
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+  }
+
+  #rahul-img-desktop {
+    display: none;
+  }
 }

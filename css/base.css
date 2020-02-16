@@ -116,7 +116,7 @@ li#name, div.dropdown-content {
 ul.navigation a {
   display: inline-block;
   color: inherit;
-  padding: 15px 20px 10px 20px; /* this is where 20 + 20 below comes from */
+  padding: 15px 20px; /* this is where 20 + 20 below comes from */
   line-height: 30px; /* same as 30 below */
 }
 
@@ -186,3 +186,4 @@ div.resume .section {
   font-family: 'CMUSansSerifBold', sans-serif;
   font-weight: bold;
 }
+

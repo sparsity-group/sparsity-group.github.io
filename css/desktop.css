@@ -18,4 +18,15 @@
   div.dropdown-content a:active {
     background-color: #666;
   }
+
+  #rahul-img-desktop {
+    float: right;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    width: 370px;
+  }
+
+  #rahul-img-mobile {
+    display: none;
+  }
 }

@@ -3,33 +3,31 @@ title: Home
 root: true
 ---
 
-&nbsp;  
-Hi. I'm Rahul Parhi. This is my site.
-
-There isn't too much here (actually, there isn't anything here), but feel free
-to look around. Eventually I'll add more stuff (hopefully within the next 50
-years!), but for now it's a work in progress (when I say work in progress, I
-mean I'm not working on it at all).
-
 ### Brief Biography
 
+<img src="https://files.rahul.sh/rahul/rahul-tokyo-2019-800x600.jpg" id="rahul-img-desktop"/>
 
-I'm currently a 2<sup>nd</sup> year [Electrical
+I'm currently an [Electrical
 Engineering](https://www.engr.wisc.edu/department/electrical-computer-engineering/)
 Ph.D. student at the [University of
 Wisconsin&ndash;Madison](https://www.wisc.edu/), where I am advised by [Robert
-Nowak](https://nowak.ece.wisc.edu/).
+D. Nowak](https://nowak.ece.wisc.edu/).
 
-Before that, I had graduated from the [University of Minnesota&ndash;Twin
-Cities](https://twin-cities.umn.edu/) in May 2018 where I received a B.S. in
-[Mathematics](https://math.umn.edu/), B.S. in [Computer
+I also recieved my M.S. in [Electrical
+Engineering](https://www.engr.wisc.edu/department/electrical-computer-engineering/)
+from the [University of Wisconsin&ndash;Madison](https://www.wisc.edu/) in 2019.
+Before moving to Madison, I was an undergraduate student at the [University of
+Minnesota&ndash;Twin Cities](https://twin-cities.umn.edu/) where, in 2018, I
+received a B.S. in [Mathematics](https://math.umn.edu/), a B.S. in [Computer
 Science](https://www.cs.umn.edu/), and a minor in
-[Physics](https://www.physics.umn.edu/). While I was an undergraduate, I spent
-two summers interning at [Amazon](https://www.amazon.com/).
+[Physics](https://www.physics.umn.edu/). While I was an undergraduate student, I
+spent two summers interning at [Amazon](https://www.amazon.com/).
 
 If you would like to know more about me (because I'm such an interesting
 person), feel free to look at my
 [r&#233;sum&#233;](https://files.rahul.sh/rahulparhi_resume.pdf).
+
+<img src="https://files.rahul.sh/rahul/rahul-tokyo-2019-800x600.jpg" id="rahul-img-mobile"/>
 
 ### About this site
 
