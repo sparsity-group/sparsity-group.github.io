@@ -13,7 +13,7 @@ Ph.D. student at the [University of
 Wisconsin&ndash;Madison](https://www.wisc.edu/), where I am advised by [Robert
 D. Nowak](https://nowak.ece.wisc.edu/).
 
-I also recieved my M.S. in [Electrical
+I also received my M.S. in [Electrical
 Engineering](https://www.engr.wisc.edu/department/electrical-computer-engineering/)
 from the [University of Wisconsin&ndash;Madison](https://www.wisc.edu/) in 2019.
 Before moving to Madison, I was an undergraduate student at the [University of
