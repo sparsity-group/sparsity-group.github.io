@@ -13,15 +13,16 @@ Ph.D. student at the [University of
 Wisconsin&ndash;Madison](https://www.wisc.edu/), where I am advised by [Robert
 D. Nowak](https://nowak.ece.wisc.edu/).
 
-I also received my M.S. in [Electrical
+I also received an M.S. in [Electrical
 Engineering](https://www.engr.wisc.edu/department/electrical-computer-engineering/)
 from the [University of Wisconsin&ndash;Madison](https://www.wisc.edu/) in 2019.
-Before moving to Madison, I was an undergraduate student at the [University of
-Minnesota&ndash;Twin Cities](https://twin-cities.umn.edu/) where, in 2018, I
-received a B.S. in [Mathematics](https://math.umn.edu/), a B.S. in [Computer
+I grew up in  Minnesota and completed my undergraduate studies at the
+[University of Minnesota&ndash;Twin Cities](https://twin-cities.umn.edu/), where
+I received a B.S. in [Mathematics](https://math.umn.edu/), a B.S. in [Computer
 Science](https://www.cs.umn.edu/), and a minor in
-[Physics](https://www.physics.umn.edu/). While I was an undergraduate student, I
-spent two summers interning at [Amazon](https://www.amazon.com/).
+[Physics](https://www.physics.umn.edu/), all in 2018. While I was an
+undergraduate student, I spent two summers working at
+[Amazon](https://www.amazon.com/) in Seattle, Washington.
 
 If you would like to know more about me (because I'm such an interesting
 person), feel free to look at my
@@ -39,8 +40,8 @@ style='vertical-align:middle;' alt="Vim" title="Vim" src="/img/vim.svg"
 height="35"></a> (never `emacs`, unless, of course, you use [evil
 mode](https://www.emacswiki.org/emacs/Evil)).  All fonts used on this site are
 from the [Computer Modern](https://en.wikipedia.org/wiki/Computer_Modern) font
-family. The design of this site was made by [me](. "recursion, we meet again"),
-that's why it's so ugly.
+family (the best font family). The design of this site was made by [me](.
+"recursion, we meet again"), that's why it's so ugly.
 
 The source for this site can be found on my GitLab
 [here](https://gitlab.com/rp/site).
