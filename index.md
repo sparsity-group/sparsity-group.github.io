@@ -11,14 +11,13 @@ I'm currently an [Electrical
 Engineering](https://www.engr.wisc.edu/department/electrical-computer-engineering/)
 Ph.D. student at the [University of
 Wisconsin&ndash;Madison](https://www.wisc.edu/), where I am advised by [Robert
-D. Nowak](https://nowak.ece.wisc.edu/).
-
-I also received an M.S. in [Electrical
+D. Nowak](https://nowak.ece.wisc.edu/). I also received an M.S. in [Electrical
 Engineering](https://www.engr.wisc.edu/department/electrical-computer-engineering/)
 from the [University of Wisconsin&ndash;Madison](https://www.wisc.edu/) in 2019.
-I grew up in  Minnesota and completed my undergraduate studies at the
-[University of Minnesota&ndash;Twin Cities](https://twin-cities.umn.edu/), where
-I received a B.S. in [Mathematics](https://math.umn.edu/), a B.S. in [Computer
+
+I grew up in Minnesota and completed my undergraduate studies at the [University
+of Minnesota&ndash;Twin Cities](https://twin-cities.umn.edu/), where I received
+a B.S. in [Mathematics](https://math.umn.edu/), a B.S. in [Computer
 Science](https://www.cs.umn.edu/), and a minor in
 [Physics](https://www.physics.umn.edu/), all in 2018. While I was an
 undergraduate student, I spent two summers working at
@@ -33,16 +32,17 @@ person), feel free to look at my
 ### About this site
 
 This site is built using the [Hakyll](http://jaspervdj.be/hakyll/) static site
-generator.  Everything is written in
+generator, none of the Jekyll stuff.  Everything is written in
 [Markdown](http://daringfireball.net/projects/markdown/) using <a
 href="http://www.vim.org/"><img class="dark-shadow"
 style='vertical-align:middle;' alt="Vim" title="Vim" src="/img/vim.svg"
-height="35"></a> (never `emacs`, unless, of course, you use [evil
+height="25"></a> (never `emacs`, unless, of course, you use [evil
 mode](https://www.emacswiki.org/emacs/Evil)).  All fonts used on this site are
 from the [Computer Modern](https://en.wikipedia.org/wiki/Computer_Modern) font
-family (the best font family). The design of this site was made by [me](.
-"recursion, we meet again"), that's why it's so ugly.
+family (the best font family). The design of this site was made by [me](.),
+that's why it's so ugly.
 
 The source for this site can be found on my GitLab
-[here](https://gitlab.com/rp/site).
+[here](https://gitlab.com/rp/site). You probably shouldn't look at it since
+it's a giant hack, but I'm way too lazy to rewrite this site.
 
