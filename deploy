@@ -18,7 +18,7 @@ server = 'ftp.fastmail.com'
 username = 'rahul@sent.com'
 # lol you thought my password would be here?
 password = keyring.get_password('FastMail FTP', username)
-local_path = os.path.join(os.getcwd(), '_site')
+local_path = os.path.join(os.getcwd(), 'public')
 remote_path = '/rahul.sent.com/files/site'
 
 ftp = ftplib.FTP(server, username, password)

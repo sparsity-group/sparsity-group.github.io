@@ -14,6 +14,7 @@ katex
 _cache/
 _site/
 .stack-work/
+public
 
 # other stuff
 cv
