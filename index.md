@@ -12,12 +12,15 @@ Wisconsin&ndash;Madison](https://www.wisc.edu/), where I am advised by [Robert
 D. Nowak](https://nowak.ece.wisc.edu/). I also received an M.S. in [Electrical
 Engineering](https://www.engr.wisc.edu/department/electrical-computer-engineering/)
 from the [University of Wisconsin&ndash;Madison](https://www.wisc.edu/) in 2019.
+I am supported by an [NSF Graduate Research
+Fellowship](https://www.nsfgrfp.org/).
 
-I am interested using tools from applied mathematics (functional analysis,
-harmonic analysis, approximation theory) and signal processing (inverse
-problems, sparsity-promoting signal recovery, splines) to understand
-mathematical problems pertaining to data science.  For more information, you can
-take a look at some of my [papers](/papers/).
+I am generally interested in splines and inverse problems, with particular
+interests in the regularization of ill-posed inverse problems that take the form
+of recovering functions from measurements. For more information, you can take a
+look at some of my [papers](/papers/).
+
+Sometimes I write [posts](/posts/) about cool stuff.
 
 <img src="https://files.rahul.sh/rahul/rahul-tokyo-2019-800x600.jpg" id="rahul-img"/>
 
