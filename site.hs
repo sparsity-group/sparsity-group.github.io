@@ -120,7 +120,6 @@ main = do
 
     match ("CNAME"
           .||. "favicon.ico"
-          .||. "robots.txt"
           .||. "404.html"
           .||. "humans.txt"
           .||. "icon.png"
