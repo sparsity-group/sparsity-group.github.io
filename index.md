@@ -15,10 +15,9 @@ from the [University of Wisconsin&ndash;Madison](https://www.wisc.edu/) in 2019.
 I am supported by an [NSF Graduate Research
 Fellowship](https://www.nsfgrfp.org/).
 
-I am generally interested in splines and inverse problems, with particular
-interests in the regularization of ill-posed inverse problems that take the form
-of recovering functions from measurements. For more information, you can take a
-look at some of my [papers](/papers/).
+I am generally interested in applied analysis, with particular interests
+splines, variational methods, and inverse problems. For more information, you
+can take a look at some of my [papers](/papers/).
 
 Sometimes I write [posts](/posts/) about cool stuff.
 
