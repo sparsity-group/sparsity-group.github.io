@@ -15,7 +15,7 @@ from the [University of Wisconsin&ndash;Madison](https://www.wisc.edu/) in 2019.
 I am supported by an [NSF Graduate Research
 Fellowship](https://www.nsfgrfp.org/).
 
-I am generally interested in applied analysis, with particular interests
+I am generally interested in applied mathematics, with particular interests
 splines, variational methods, and inverse problems. For more information, you
 can take a look at some of my [papers](/papers/).
 
