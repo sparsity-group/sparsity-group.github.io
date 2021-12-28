@@ -21,7 +21,7 @@ can take a look at some of my [papers](/papers/).
 
 Sometimes I write [posts](/posts/) about cool stuff.
 
-<img src="https://files.rahul.sh/rahul/rahul-joshua-tree-2021-800x600.jpg" id="rahul-img"/>
+<img src="https://files.rahul.sh/rahul/rahul-joshua-tree-2021-800x600.jpg" alt="Rahul Parhi" id="rahul-img"/>
 
 Before coming to Madison, I  completed my undergraduate studies at the
 [University of Minnesota&ndash;Twin Cities](https://twin-cities.umn.edu/), where
