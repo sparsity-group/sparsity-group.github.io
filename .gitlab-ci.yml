@@ -3,6 +3,7 @@ image: haskell:latest
 before_script:
   - apt-get update && apt-get install xz-utils make
   - export STACK_ROOT=`pwd`/.stack
+  - locale-gen en_US
   - stack setup
   - stack install --only-dependencies
   - stack build
