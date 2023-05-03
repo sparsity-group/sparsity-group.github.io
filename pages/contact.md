@@ -4,8 +4,8 @@ title: contact
 
 For any questions or comments I can be reached via
 
-* **email**: `echo mrcpgakrmcdbtjh | tr a-t @.h-va-c`
-* **phone**: `echo +1 xstqvvvqxrxy | tr q-y \ 0-7`
+* **email**: `rahul@parhi.com`
+* **phone**: `+1 612 444 6067` or `+41 77 953 34 62`
 
 You can also find (or not find) me on
 
