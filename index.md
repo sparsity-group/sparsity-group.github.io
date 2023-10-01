@@ -10,7 +10,7 @@ Group](http://bigwww.epfl.ch/) at the [École Polytechnique Fédérale de
 Lausanne (EPFL)](https://www.epfl.ch/en/), where I
 am supervised by [Michael Unser](http://bigwww.epfl.ch/unser/).
 
-**I am currently on the academic job market.**
+**I am on the 2023--2024 academic job market.**
 
 In July 2022 I defended my Ph.D. in [Electrical
 Engineering](https://www.engr.wisc.edu/department/electrical-computer-engineering/)
