@@ -12,7 +12,7 @@ am supervised by [Michael Unser](http://bigwww.epfl.ch/unser/).
 
 **I am on the 2023--2024 academic job market.**
 
-In July 2022 I defended my Ph.D. in [Electrical
+In July 2022, I defended my Ph.D. in [Electrical
 Engineering](https://www.engr.wisc.edu/department/electrical-computer-engineering/)
 at the [University of Wisconsin&ndash;Madison](https://www.wisc.edu/), where I
 was supervised by [Robert D. Nowak](https://nowak.ece.wisc.edu/). There, my
