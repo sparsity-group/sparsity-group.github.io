@@ -3,23 +3,39 @@ title: home
 root: true
 ---
 
-Hello, I am Rahul Parhi. This is my website.
+<div class="headshot-container">
+<div class="headshot">
+<a href="https://files.rahul.sh/rahul/rahul-epfl-bm-2023.jpg" target="_blank">
+<img src="https://files.rahul.sh/rahul/rahul-epfl-bm-2023-800x1000.jpg">
+</a>
+</div>
+<div class="headshot-text">
+#####**Rahul Parhi**  
+Postdoctoral Researcher  
+[Biomedical Imaging Group](https://bigwww.epfl.ch/){target="_blank"}  
+[Institute of Electrical and Micro Engineering](https://sti.epfl.ch/iem/){target="_blank"}  
+[École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/){target="_blank"}  
+Lausanne, Switzerland
+</div>
+</div>
+
+---
 
 I am currently a postdoctoral researcher with the [Biomedical Imaging
-Group](http://bigwww.epfl.ch/) at the [École Polytechnique Fédérale de
-Lausanne (EPFL)](https://www.epfl.ch/en/), where I
-am supervised by [Michael Unser](http://bigwww.epfl.ch/unser/).
+Group](https://bigwww.epfl.ch/){target="_blank"} at the [École Polytechnique Fédérale de
+Lausanne (EPFL)](https://www.epfl.ch/en/){target="_blank"}, where I
+am supervised by [Michael Unser](http://bigwww.epfl.ch/unser/){target="_blank"}.
 
 **I am on the 2023--2024 academic job market.**
 
 In July 2022, I defended my Ph.D. in [Electrical
-Engineering](https://www.engr.wisc.edu/department/electrical-computer-engineering/)
-at the [University of Wisconsin&ndash;Madison](https://www.wisc.edu/), where I
-was supervised by [Robert D. Nowak](https://nowak.ece.wisc.edu/). There, my
-dissertation recieved the [Harold Peterson Outstanding Dissertation
-Award](https://engineering.wisc.edu/blog/2023-ece-department-awards-reception-highlights-excellence/).
+Engineering](https://www.engr.wisc.edu/department/electrical-computer-engineering/){target="_blank"}
+at the [University of Wisconsin&ndash;Madison](https://www.wisc.edu/){target="_blank"}, where I
+was supervised by [Robert D. Nowak](https://nowak.ece.wisc.edu/){target="_blank"}. There, my
+dissertation received the [Harold Peterson Outstanding Dissertation
+Award](https://engineering.wisc.edu/blog/2023-ece-department-awards-reception-highlights-excellence/){target="_blank"}.
 During my Ph.D., I was supported by an [NSF Graduate Research
-Fellowship](https://www.nsfgrfp.org/).
+Fellowship](https://www.nsfgrfp.org/){target="_blank"}.
 
 I am generally interested in topics that lie at the interface between
 functional/harmonic analysis and the data sciences.  My primary area of
@@ -44,8 +60,6 @@ Other topics/keywords that catch my attention include
 
 For more information, you can
 take a look at some of my [papers](/papers/).
-
-<img src="https://files.rahul.sh/rahul/rahul-joshua-tree-2021-800x600.jpg" alt="Rahul Parhi" id="rahul-img"/>
 
 If you would like to know more about me (because I'm such an interesting
 person), feel free to look at my

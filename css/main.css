@@ -532,10 +532,6 @@ dt {
     }
 }
 
-#rahul-img {
-  width: 70% !important;
-}
-
 .icon {
   display: inline !important;
   height: 25px !important;
@@ -550,4 +546,22 @@ dt {
 
 .name-refs {
   font-weight: bold;
+}
+
+.headshot-container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+.headshot {
+  flex-basis: 40%
+}
+
+.headshot.img {
+  max-width: 100%
+}
+
+.headshot-text {
+  padding-left: 20px;
 }
