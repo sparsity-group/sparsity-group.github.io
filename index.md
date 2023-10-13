@@ -15,7 +15,15 @@ Postdoctoral Researcher
 [Biomedical Imaging Group](https://bigwww.epfl.ch/){target="_blank"}  
 [Institute of Electrical and Micro Engineering](https://sti.epfl.ch/iem/){target="_blank"}  
 [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/){target="_blank"}  
-Lausanne, Switzerland
+Lausanne, Switzerland  
+
+`rahul@parhi.com`
+
+<a
+  href="https://scholar.google.com/citations?hl=en&user=5A_1NL0AAAAJ&view_op=list_works&sortby=pubdate"><img
+  class="icon " alt="Google Scholar" title="Google Scholar"
+  src="/img/google-scholar.png"></a>
+
 </div>
 </div>
 
