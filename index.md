@@ -34,7 +34,9 @@ Group](https://bigwww.epfl.ch/){target="_blank"} at the [Ã‰cole Polytechnique FÃ
 Lausanne (EPFL)](https://www.epfl.ch/en/){target="_blank"}, where I
 am supervised by [Michael Unser](http://bigwww.epfl.ch/unser/){target="_blank"}.
 
-**I am on the academic job market.**
+**I am joining the [Department of Electrical and Computer
+Engineering](https://www.ece.ucsd.edu/) at the [University of California, San
+Diego (UCSD)](https://ucsd.edu/) as an Assistant Professor in Fall 2024.**
 
 In July 2022, I defended my Ph.D. in [Electrical
 Engineering](https://www.engr.wisc.edu/department/electrical-computer-engineering/){target="_blank"}
