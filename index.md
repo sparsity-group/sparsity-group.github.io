@@ -10,55 +10,71 @@ root: true
 </a>
 </div>
 <div class="headshot-text">
-#####**Rahul Parhi**  
-Postdoctoral Researcher  
-[Biomedical Imaging Group](https://bigwww.epfl.ch/){target="_blank"}  
-[Institute of Electrical and Micro Engineering](https://sti.epfl.ch/iem/){target="_blank"}  
-[École Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/){target="_blank"}  
-Lausanne, Switzerland  
 
-`rahul@parhi.com`
+#####**Rahul Parhi**  
+Assistant Professor  
+[Department&nbsp;of&nbsp;Electrical&nbsp;and&nbsp;Computer&nbsp;Engineering](https://www.ece.ucsd.edu/){target="_blank"}  
+[University of California, San Diego (UCSD)](https://ucsd.edu/){target="_blank"}  
+
+Office: 6406 Jacobs Hall
+
+Email: rahul **[at]** ucsd **[dot]** edu
 
 <a
-  href="https://scholar.google.com/citations?hl=en&user=5A_1NL0AAAAJ&view_op=list_works&sortby=pubdate"><img
+  href="https://scholar.google.com/citations?user=5A_1NL0AAAAJ" target="_blank"><img
   class="icon " alt="Google Scholar" title="Google Scholar"
-  src="/img/google-scholar.png"></a>
+  src="/img/gscholar.svg"></a>
+<a
+  href="https://x.com/RahulParhi" target="_blank"><img
+  class="icon " alt="Twitter" title="Twitter"
+  src="/img/twitter.svg"></a>
+<a
+  href="https://www.linkedin.com/in/rahulparhi" target="_blank"><img
+  class="icon " alt="LinkedIn" title="LinkedIn"
+  src="/img/linkedin-small.svg"></a>
+<a
+  href="https://gitlab.com/rp" target="_blank"><img
+  class="icon " alt="GitLab" title="GitLab"
+  src="/img/gitlab.svg"></a>
+<a
+  href="https://github.com/rp" target="_blank"><img
+  class="icon " alt="GitHub" title="GitHub"
+  src="/img/github.svg"></a>
+<a
+  href="https://www.fsf.org/facebook" target="_blank"><img
+  class="icon " alt="Not f'd — you won't find me on Facebook" title="Not f'd"
+  src="/img/not-fd-small.svg"></a>
 
 </div>
 </div>
 
 ---
 
-I am currently a postdoctoral researcher with the [Biomedical Imaging
-Group](https://bigwww.epfl.ch/){target="_blank"} at the [École Polytechnique Fédérale de
-Lausanne (EPFL)](https://www.epfl.ch/en/){target="_blank"}, where I
-am supervised by [Michael Unser](http://bigwww.epfl.ch/unser/){target="_blank"}.
+I am an Assistant Professor in the [Department of Electrical and Computer
+Engineering](https://www.ece.ucsd.edu/){target="_blank"} at
+[UCSD](https://ucsd.edu/){target="_blank"}. I joined
+[UCSD](https://ucsd.edu/){target="_blank"} in 2024. Before that, I was a
+postdoctoral researcher at the [École Polytechnique Fédérale de Lausanne
+(EPFL)](https://www.epfl.ch/en/){target="_blank"} from 2022 to 2024, where I
+worked with [Michael Unser](http://bigwww.epfl.ch/unser/){target="_blank"}. I
+completed my Ph.D. in 2022 at the [University of
+Wisconsin&ndash;Madison](https://www.wisc.edu/){target="_blank"}, where I was
+supervised by [Robert D. Nowak](https://nowak.ece.wisc.edu/){target="_blank"}.
 
-**I am joining the [Department of Electrical and Computer
-Engineering](https://www.ece.ucsd.edu/) at the [University of California, San
-Diego (UCSD)](https://ucsd.edu/) as an Assistant Professor in Fall 2024.**
+**&#9733; I am actively recruiting Ph.D. students to begin in Fall 2025 as well
+as postdocs who are generally interested in the mathematics of data science. If
+you are interested in working with me, please send me an email with (i) your CV
+and (ii) a list of topics you are interested in.**
 
-In July 2022, I defended my Ph.D. in [Electrical
-Engineering](https://www.engr.wisc.edu/department/electrical-computer-engineering/){target="_blank"}
-at the [University of Wisconsin&ndash;Madison](https://www.wisc.edu/){target="_blank"}, where I
-was supervised by [Robert D. Nowak](https://nowak.ece.wisc.edu/){target="_blank"}. There, my
-dissertation received the [Harold Peterson Outstanding Dissertation
-Award](https://engineering.wisc.edu/blog/2023-ece-department-awards-reception-highlights-excellence/){target="_blank"}.
-During my Ph.D., I was supported by an [NSF Graduate Research
-Fellowship](https://www.nsfgrfp.org/){target="_blank"}.
-
-I am generally interested in topics that lie at the interface between
-functional/harmonic analysis and the data sciences.  My primary area of
-investigation is in the development of the mathematical foundations of **neural
-networks** and **deep learning** with the goal of understanding:
+My research lies at the interface between functional and harmonic analysis,
+signal processing, machine learning, and nonparametric statistics. I am
+primarily interested in the **mathematics of data science** with a particular
+emphasis on the foundations of **neural networks** and **deep learning**. Some
+questions my research aims to answer include:
 
 1. What is the effect of regularization in deep learning?
 2. What kinds of functions do neural networks learn?
 3. Why do neural networks seemingly break the curse of dimensionality?
-
-My research uses tools from mathematical signal processing, functional/harmonic
-analysis, nonparametric statistics, and nonlinear approximation theory to answer
-these questions.
 
 Other topics/keywords that catch my attention include
 **computed tomography**,
@@ -67,11 +83,5 @@ Other topics/keywords that catch my attention include
 **splines**,
 **time--frequency analysis**, and
 **wavelets**.
-
-For more information, you can
-take a look at some of my [papers](/papers/).
-
-If you would like to know more about me (because I'm such an interesting
-person), feel free to look at my
-[r&#233;sum&#233;](https://files.rahul.sh/rahulparhi_resume.pdf).
+For more information, you can take a look at some of my [papers](/papers/).
 
