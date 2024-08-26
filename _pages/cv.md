@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: https://files.rahul.sh/rahulparhi_cv.pdf
+permalink: /assets/pdf/rahulparhi_cv.pdf
 title: cv
 newtab: true
 nav: true
