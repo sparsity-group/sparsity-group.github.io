@@ -1,34 +1,36 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"parhi":
+  - firstname: ["Keshab", "K.", "K. K.", "Keshab K."]
+    url: https://www.ece.umn.edu/users/parhi/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"kim":
+  - firstname: ["Chris", "C.", "C. H.", "Chris H."]
+    url: https://chriskim.umn.edu/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"hopper":
+  - firstname: ["Nicholas", "N.", "N. J.", "Nicholas J."]
+    url: https://www-users.cse.umn.edu/~hoppernj/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"nowak":
+  - firstname: ["Robert", "R.", "R. D.", "Robert D."]
+    url: https://nowak.ece.wisc.edu/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"shenouda":
+  - firstname: ["Joseph", "J."]
+    url: https://joeshenouda.github.io/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"unser":
+  - firstname: ["Michael", "M."]
+    url: https://bigwww.epfl.ch/unser/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"lee":
+  - firstname: ["Kangwook", "K."]
+    url: https://kangwooklee.com/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"devore":
+  - firstname: ["Ronald", "R."]
+    url: https://rdevore.math.tamu.edu/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"siegel":
+  - firstname: ["Jonathan", "J.", "J. W.", "Jonathan W."]
+    url: https://jwsiegel2510.github.io/
+

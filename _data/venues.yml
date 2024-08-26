@@ -1,9 +1,57 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"arXiv":
+  url: https://arxiv.org/
+  color: "#606b71"
 
-"PhysRev":
-  url: https://journals.aps.org/
 
-"Vision":
-  color: "#009f36"
+
+"JMLR":
+  url: https://jmlr.org/
+  color: "#c32b72"
+
+"SIMA":
+  url: https://www.siam.org/publications/siam-journals/siam-journal-on-mathematical-analysis/
+  color: "#c32b72"
+
+"IEEE SPM":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=79
+  color: "#c32b72"
+
+"IEEE SPL":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97
+  color: "#c32b72"
+
+"IEEE TIT":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18
+  color: "#c32b72"
+
+"SIMODS":
+  url: https://www.siam.org/publications/siam-journals/siam-journal-on-mathematics-of-data-science/
+  color: "#c32b72"
+
+
+
+
+"PhD":
+  url: https://asset.library.wisc.edu/1711.dl/WYMESSTA2NRBM8Z/R/file-f7da8.pdf
+  color: "#f9c81f"
+
+
+
+
+"SampTA":
+  url: https://en.wikipedia.org/wiki/SampTA
+  color: "#186da3"
+
+"ICASSP":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000002/all-proceedings
+  color: "#186da3"
+
+"ISCAS":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000089/all-proceedings
+  color: "#186da3"
+
+
+
+"FC":
+  url: https://ifca.ai/
+  color: "#6E4C8B"
