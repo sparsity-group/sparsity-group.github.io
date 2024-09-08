@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor of Electrical and Computer Engineering
+I am an assistant professor of electrical and computer engineering
 ([ECE](https://www.ece.ucsd.edu/)) at the University of California, San Diego
 ([UCSD](https://ucsd.edu/)), which I joined in 2024.  Previously, I was a
 postdoctoral researcher at the École Polytechnique Fédérale de Lausanne
