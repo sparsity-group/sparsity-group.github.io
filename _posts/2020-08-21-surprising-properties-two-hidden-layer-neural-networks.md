@@ -181,11 +181,12 @@ theorem. Indeed, since we are restricting ourselves to \\([0,1]^d\\), we can
 uniformly approximate every function that appears in \\((2)\\) with \\(\rho\\) with
 appropriate weights and biases. \\(\square\\)
 
+<!-- prettier-ignore -->
 While the activation function constructed in the above proof doesn't have many
 nice properties, activation functions that achieve the same result can be
 constructed with more complex constructions that are real analytic, strictly
-increasing, and sigmoidal (in the sense that \\(\lim*{x \to -\infty} \rho(x) =
-0\\) and \\(\lim*{x \to \infty} \rho(x) = 1\\)). For such a construction, we
+increasing, and sigmoidal (in the sense that \\(\lim_{x \to -\infty} \rho(x) =
+0\\) and \\(\lim_{x \to \infty} \rho(x) = 1\\)). For such a construction, we
 refer the reader to Section 2 of <d-cite key="maiorov1999lower"></d-cite>. We
 additionally remark that in this more complicated construction, the main idea of
 encoding every single polynomial with rational coefficients within the
