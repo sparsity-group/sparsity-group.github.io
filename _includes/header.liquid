@@ -7,9 +7,13 @@
         <div class="navbar-brand social">{% include social.liquid %}</div>
       {% else %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
-          <img height="25px" src="{{ '/assets/img/logo.svg' | relative_url }}" alt="{% if site.title != 'blank' %}{{ site.title }}{% else %}{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}{% endif %}"/>
+          <img
+            height="25px"
+            src="{{ '/assets/img/logo.svg' | relative_url }}"
+            alt="{% if site.title != 'blank' %}{{ site.title }}{% else %}{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}{% endif %}"
+          >
         </a>
-      </a>
+        </a>
       {% endif %}
       <!-- Navbar Toggle -->
       <button

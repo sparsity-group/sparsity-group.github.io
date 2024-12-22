@@ -2,8 +2,6 @@
   url: https://arxiv.org/
   color: "#606b71"
 
-
-
 "ACHA":
   url: https://www.sciencedirect.com/journal/applied-and-computational-harmonic-analysis
   color: "#c32b72"
@@ -32,15 +30,9 @@
   url: https://www.siam.org/publications/siam-journals/siam-journal-on-mathematics-of-data-science/
   color: "#c32b72"
 
-
-
-
 "PhD":
   url: https://asset.library.wisc.edu/1711.dl/WYMESSTA2NRBM8Z/R/file-f7da8.pdf
   color: "#f9c81f"
-
-
-
 
 "SampTA":
   url: https://en.wikipedia.org/wiki/SampTA
@@ -53,8 +45,6 @@
 "ISCAS":
   url: https://ieeexplore.ieee.org/xpl/conhome/1000089/all-proceedings
   color: "#186da3"
-
-
 
 "FC":
   url: https://ifca.ai/

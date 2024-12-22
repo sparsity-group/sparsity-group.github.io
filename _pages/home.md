@@ -3,7 +3,7 @@ layout: about
 title: Home
 header: Sparsity Research Group at UCSD
 permalink: /
-#subtitle: rahul <b>[at]</b> ucsd <b>[dot]</b> edu <br> Assistant Professor of <a href="https://www.ece.ucsd.edu/">ECE<a> at <a href="https://ucsd.edu/">UCSD</a> 
+#subtitle: rahul <b>[at]</b> ucsd <b>[dot]</b> edu <br> Assistant Professor of <a href="https://www.ece.ucsd.edu/">ECE<a> at <a href="https://ucsd.edu/">UCSD</a>
 
 # profile:
 #   align: right
@@ -27,7 +27,6 @@ images:
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/banner/sun-god.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
-
 The **S**ignals, **P**atterns, **A**daptivity, **R**egularization,
 **S**tatistics, and **I**nformation **T**heor**Y** (SPARSITY) research group at
 the University of California, San Diego ([UCSD](https://ucsd.edu/)), led by
@@ -44,7 +43,6 @@ computed tomography, stochastic processes, the theory of distributions,
 time--frequency analysis, and wavelets. As a by-product, we have also made
 several contributions to these areas as well. For more information, you can take
 a look at our [papers](/papers/).
-
 
 **&#9733; We are always interested in recruiting <ins>self-motivated</ins> Ph.D.
 students as postdocs with a <ins>strong background in mathematics</ins> who are

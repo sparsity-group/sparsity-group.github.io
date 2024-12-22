@@ -14,11 +14,12 @@ authors:
 ---
 
 ## Introduction
+
 Neural networks, particularly _deep_ neural networks, are extremely popular in
 modern machine learning due to their seemingly "magical" properties. The usual
 heuristic for explaining why neural networks work is that they are _universal
 approximators_, though we remark that universal approximation is a rather boring
-result and is easily achieved by any sufficiently nice class of functions.  For
+result and is easily achieved by any sufficiently nice class of functions. For
 more information why universal approximation is rather boring, see the entire
 field of approximation theory.
 
@@ -32,9 +33,9 @@ $$
 $$
 
 where \\(\rho: \mathbb{R} \to \mathbb{R}\\) is a fixed _activation function_
-and, for \\(k = 1, \ldots K\\), \\(v_k \in \mathbb{R}\\) and \\(\mathbf{w}\_k
-\in \mathbb{R}^d\\) are the _weights_ of the network and \\(b_k \in
-\mathbb{R}\\) are the _biases_ of the network. The universal approximation
+and, for \\(k = 1, \ldots K\\), \\(v*k \in \mathbb{R}\\) and \\(\mathbf{w}\_k
+\in \mathbb{R}^d\\) are the \_weights* of the network and \\(b*k \in
+\mathbb{R}\\) are the \_biases* of the network. The universal approximation
 theorem then says that just about any choice of activation function \\(\rho\\),
 one can _uniformly_ approximate arbitrarily well any given continuous function
 with functions of the form in \\((1)\\). It is important to note that this
@@ -46,7 +47,6 @@ property cannot hold if \\(K\\) is fixed, even if we allow \\(\rho\\) to be
 tunable over all continuous functions. This fundamental fact regarding
 single-hidden layer networks can be seen in Theorem 5.1 of <d-cite
 key="lin1993fundamentality"></d-cite>.
-
 
 What is surprising is that this negative property of single-hidden layer neural
 networks does not carry over to the two-hidden layer case. Indeed, with
@@ -103,7 +103,7 @@ $$
   \right\},
 $$
 
-then, neither \\(\mathsf{1NN}_\rho^K\\) nor \\(\mathsf{1NN}^K\\) is dense in
+then, neither \\(\mathsf{1NN}\_\rho^K\\) nor \\(\mathsf{1NN}^K\\) is dense in
 \\(C(\Omega)\\), where \\(\Omega \subset \mathbb{R}^d\\) is compact.
 
 Theorem 5 of <d-cite key="maiorov1999lower"></d-cite> considers the
@@ -117,14 +117,14 @@ $$
     \mathbf{w}_{k\ell} \in \mathbb{R}^d, b_{k\ell} \in \mathbb{R}, c_k \in \mathbb{R}\right\}.
 $$
 
-In particular, \\(K_1\\) and \\(K_2\\) are both \\(O(d)\\). The main idea is
+In particular, \\(K*1\\) and \\(K_2\\) are both \\(O(d)\\). The main idea is
 that \\(\rho\\) in the above display is a specially constructed activation
 function. Theorem 5 of <d-cite key="maiorov1999lower"></d-cite> then says
-\\(\mathsf{2NN}_\rho^{K_1, K_2}\\) is dense in \\(C(\Omega)\\). Before proving
+\\(\mathsf{2NN}*\rho^{K_1, K_2}\\) is dense in \\(C(\Omega)\\). Before proving
 this result, we remark that there are two key ingredients to the proof. The
 first is the seperability of the metric space \\(C(\Omega)\\) when equipped with
 the uniform norm as the metric. The second is the Kolmogorov superposition
-theorem<d-cite key="kolmogorov1956representation"></d-cite>.  We will first
+theorem<d-cite key="kolmogorov1956representation"></d-cite>. We will first
 recall this theorem.
 
 **Proposition 2 (Kolmogorov Superposition Theorem<d-cite key="kolmogorov1956representation"></d-cite>).**
@@ -161,7 +161,7 @@ general result then follows by translating and dilating. The main idea is to
 construct \\(\rho\\) in a special manner so that there exist weights and biases so
 that the terms that appear in the Kolmogorov superposition theorem in \\((2)\\) can
 be uniformly approximated by the activation function. The construction relies on
-the fact that \\(C[0,1]\\) is seperable. Indeed, let \\(\{p_n\}_{n \in \mathbb{Z}}\\)
+the fact that \\(C[0,1]\\) is seperable. Indeed, let \\(\{p*n\}*{n \in \mathbb{Z}}\\)
 be an enumeration of any countable dense subset of \\(C[0,1]\\), say, polynomials
 with rational coefficients. Then, define \\(\rho\\) so that for every \\(n \in
 \mathbb{Z}\\),
@@ -175,15 +175,15 @@ coefficients. The main idea with this construction is that we have "encoded"
 every single polynomial with rational coefficients within \\(\rho\\).
 
 The theorem follows immediately by invoking the Kolmogorov superposition
-theorem.  Indeed, since we are restricting ourselves to \\([0,1]^d\\), we can
+theorem. Indeed, since we are restricting ourselves to \\([0,1]^d\\), we can
 uniformly approximate every function that appears in \\((2)\\) with \\(\rho\\) with
 appropriate weights and biases. \\(\square\\)
 
 While the activation function constructed in the above proof doesn't have many
 nice properties, activation functions that achieve the same result can be
 constructed with more complex constructions that are real analytic, strictly
-increasing, and sigmoidal (in the sense that \\(\lim_{x \to -\infty} \rho(x) =
-0\\) and \\(\lim_{x \to \infty} \rho(x) = 1\\)). For such a construction, we
+increasing, and sigmoidal (in the sense that \\(\lim*{x \to -\infty} \rho(x) =
+0\\) and \\(\lim*{x \to \infty} \rho(x) = 1\\)). For such a construction, we
 refer the reader to Section 2 of <d-cite key="maiorov1999lower"></d-cite>. We
 additionally remark that in this more complicated construction, the main idea of
 encoding every single polynomial with rational coefficients within the
@@ -191,8 +191,9 @@ activation function remains. Another similar construction appears in Theorem
 5.10 of <d-cite key="ismailov2020notes"></d-cite>.
 
 ## Implications to statistical learning
+
 We will now recall the usual example of a finite-parameter hypothesis space with
-infinite VC dimension.  Consider set of (one-dimensional) classifiers
+infinite VC dimension. Consider set of (one-dimensional) classifiers
 
 $$
     \mathcal{F} := \{f_\theta \: : \: f_\theta(x) = \mathrm{sgn}(\sin(\theta x))\}.
@@ -200,7 +201,7 @@ $$
 
 It's easy to verify that \\(\mathcal{F}\\) can shatter any data set, and so
 \\(\mathcal{F}\\) has infinite VC dimension, yet the classifiers are parameterized
-by a single real number.  The main drawback of this example is that it only
+by a single real number. The main drawback of this example is that it only
 works for one-dimensional data sets.
 
 With Theorem 1 in hand, we can now state a new example of a parameterized
@@ -209,7 +210,7 @@ parameter space is finite. In particular, the example we will construct applies
 to data sets of any dimension. Moreoever, the dimension of the parameter space
 is proportional to the dimension of the data set.
 
-Consider any data set \\( \\{ (\mathbf{x}\_n, y\_n) \\}\_{n=1}^N \subset \mathbb{R}^d \times
+Consider any data set \\( \\{ (\mathbf{x}\_n, y_n) \\}\_{n=1}^N \subset \mathbb{R}^d \times
 \{-1, +1\} \\) where \\(\Omega \subset \mathbb{R}^d\\) is compact. Clearly any such
 data set can be shattered by
 
@@ -247,18 +248,17 @@ one-dimensional dataset for appropriate choice of \\(w, b \in \mathbb{R}\\).
 
 ## Takeaway messages
 
-* Function compositions provide the ability to approximate or represent many
+- Function compositions provide the ability to approximate or represent many
   functions with only few parameters, as evidenced by the Kolmogorov
   superposition theorem. This is perhaps a heuristic for explaining why depth
   matters in neural networks.
 
-* When discussing VC dimension of neural networks, it is important to discuss
+- When discussing VC dimension of neural networks, it is important to discuss
   the VC dimension of the activation function itself. Indeed, the only reason the
   argument in [Implications to statistical
   learning](#implications-to-statistical-learning) follows is because the VC
   dimension of the activation function is itself infinite.
 
-* There is a large gap between the capabilities of single-hidden layer and
+- There is a large gap between the capabilities of single-hidden layer and
   two-hidden layer neural networks, and this gap is still not very well
   understood.
-

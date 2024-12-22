@@ -11,35 +11,35 @@ description: Profile of Rahul Parhi
 lastname: Parhi
 
 teaser: >
-    Rahul Parhi is an assistant professor of Electrical and Computer Engineering
-    (ECE) at UCSD, which he joined in 2024. Previously, he was a postdoctoral
-    researcher at the École Polytechnique Fédérale de Lausanne (EPFL) from 2022
-    to 2024. He obtained his Ph.D. in 2022 at the University of
-    Wisconsin–Madison and completed his undergraduate studies at the University
-    of Minnesota, Twin Cities in 2018.
+  Rahul Parhi is an assistant professor of Electrical and Computer Engineering
+  (ECE) at UCSD, which he joined in 2024. Previously, he was a postdoctoral
+  researcher at the École Polytechnique Fédérale de Lausanne (EPFL) from 2022
+  to 2024. He obtained his Ph.D. in 2022 at the University of
+  Wisconsin–Madison and completed his undergraduate studies at the University
+  of Minnesota, Twin Cities in 2018.
 
 profile:
-    name: Rahul Parhi
-    position: Assistant Professor of ECE
-    align: right
-    image: rahul/rahul-epfl-bm-2023.jpg
-    email: rahul@ucsd.edu
-    twitter: RahulParhi
-    linkedin: rahulparhi
-    orcid: 0000-0002-1971-7699
-    address: >
-        Jacobs Hall, Room 6406<br />
-        9736 Engineers Ln<br />
-        La Jolla, CA 92093
-    more_info: >
-        <p>Jacobs Hall, Room 6406</p>
-        <p>9736 Engineers Ln</p>
-        <p>La Jolla, CA 92093</p>
+  name: Rahul Parhi
+  position: Assistant Professor of ECE
+  align: right
+  image: rahul/rahul-epfl-bm-2023.jpg
+  email: rahul@ucsd.edu
+  twitter: RahulParhi
+  linkedin: rahulparhi
+  orcid: 0000-0002-1971-7699
+  address: >
+    Jacobs Hall, Room 6406<br />
+    9736 Engineers Ln<br />
+    La Jolla, CA 92093
+  more_info: >
+    <p>Jacobs Hall, Room 6406</p>
+    <p>9736 Engineers Ln</p>
+    <p>La Jolla, CA 92093</p>
 ---
 
 I am an assistant professor of electrical and computer engineering
 ([ECE](https://www.ece.ucsd.edu/)) at the University of California, San Diego
-([UCSD](https://ucsd.edu/)), which I joined in 2024.  Previously, I was a
+([UCSD](https://ucsd.edu/)), which I joined in 2024. Previously, I was a
 postdoctoral researcher at the École Polytechnique Fédérale de Lausanne
 ([EPFL](https://www.epfl.ch/en/)) from 2022 to 2024, where I worked with
 [Michael Unser](http://bigwww.epfl.ch/unser/). I obtained my Ph.D. in 2022 at
@@ -68,5 +68,3 @@ Other topics/keywords that catch my attention include
 **time--frequency analysis**, and
 **wavelets**.
 For more information, you can take a look at my [papers](/papers/).
-
-

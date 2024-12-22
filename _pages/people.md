@@ -14,6 +14,7 @@ nav_order: 2
 
     {% assign members = site.people | sort: "lastname" | where: "group", group %}
     {% for member in members %}
+
 <p class="team">
 {% if member.inline == false %}
     {% if member.profile.website %}
@@ -48,4 +49,3 @@ nav_order: 2
 <br/>
     {% endfor %}
 {% endfor %}
-

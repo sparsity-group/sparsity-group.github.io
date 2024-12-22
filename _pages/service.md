@@ -10,7 +10,7 @@ nav_order: 7
 #### Session Chair
 
 - International Symposium on Mathematical Programming, Montréal, Québec, Canada, 2024 ([ISMP 2024](https://ismp2024.gerad.ca/))
-    * Chair for the session on [nonsmooth and hierarchical optimization in machine learning](https://ismp2024.gerad.ca/schedule/FB/336)
+  - Chair for the session on [nonsmooth and hierarchical optimization in machine learning](https://ismp2024.gerad.ca/schedule/FB/336)
 
 #### Journal Reviewer
 
@@ -26,7 +26,5 @@ nav_order: 7
 
 #### Conference Reviewer
 
-
 - 2020 Conference on Machine Learning and Systems ([MLSys](https://mlsys.org/))
 - 2023, 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing ([ICASSP](https://ieeexplore.ieee.org/xpl/conhome/1000002/all-proceedings))
-
