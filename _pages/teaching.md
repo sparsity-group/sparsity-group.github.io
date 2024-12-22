@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: 
 nav: true
 nav_order: 6
@@ -11,8 +11,8 @@ nav_order: 6
 
 ###### _Instructor_
 
-| Winter 2025 | ECE 172A      | Introduction to Intelligent Systems |
-| Fall 2024   | ECE 251C      | Filter Banks and Wavelets           |
+| Winter 2025 | ECE 172A      | [Introduction to Intelligent Systems](/172a) ||
+| Fall 2024   | ECE 251C      | [Filter Banks and Wavelets](/251c)          | [Course Evaluations](/assets/pdf/evals/ece251c-fa24.pdf) |
 
 <br>
 

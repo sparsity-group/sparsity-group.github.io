@@ -4,6 +4,10 @@
 
 
 
+"ACHA":
+  url: https://www.sciencedirect.com/journal/applied-and-computational-harmonic-analysis
+  color: "#c32b72"
+
 "JMLR":
   url: https://jmlr.org/
   color: "#c32b72"
