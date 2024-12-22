@@ -33,9 +33,9 @@ $$
 $$
 
 where \\(\rho: \mathbb{R} \to \mathbb{R}\\) is a fixed _activation function_
-and, for \\(k = 1, \ldots K\\), \\(v*k \in \mathbb{R}\\) and \\(\mathbf{w}\_k
-\in \mathbb{R}^d\\) are the \_weights* of the network and \\(b*k \in
-\mathbb{R}\\) are the \_biases* of the network. The universal approximation
+and, for \\(k = 1, \ldots K\\), \\(v_k \in \mathbb{R}\\) and \\(\mathbf{w}\_k
+\in \mathbb{R}^d\\) are the *weights* of the network and \\(b_k \in
+\mathbb{R}\\) are the *biases* of the network. The universal approximation
 theorem then says that just about any choice of activation function \\(\rho\\),
 one can _uniformly_ approximate arbitrarily well any given continuous function
 with functions of the form in \\((1)\\). It is important to note that this
@@ -117,10 +117,10 @@ $$
     \mathbf{w}_{k\ell} \in \mathbb{R}^d, b_{k\ell} \in \mathbb{R}, c_k \in \mathbb{R}\right\}.
 $$
 
-In particular, \\(K*1\\) and \\(K_2\\) are both \\(O(d)\\). The main idea is
+In particular, \\(K_1\\) and \\(K_2\\) are both \\(O(d)\\). The main idea is
 that \\(\rho\\) in the above display is a specially constructed activation
 function. Theorem 5 of <d-cite key="maiorov1999lower"></d-cite> then says
-\\(\mathsf{2NN}*\rho^{K_1, K_2}\\) is dense in \\(C(\Omega)\\). Before proving
+\\(\mathsf{2NN}_\rho^{K_1, K_2}\\) is dense in \\(C(\Omega)\\). Before proving
 this result, we remark that there are two key ingredients to the proof. The
 first is the seperability of the metric space \\(C(\Omega)\\) when equipped with
 the uniform norm as the metric. The second is the Kolmogorov superposition
@@ -211,7 +211,7 @@ to data sets of any dimension. Moreoever, the dimension of the parameter space
 is proportional to the dimension of the data set.
 
 Consider any data set \\( \\{ (\mathbf{x}\_n, y_n) \\}\_{n=1}^N \subset \mathbb{R}^d \times
-\{-1, +1\} \\) where \\(\Omega \subset \mathbb{R}^d\\) is compact. Clearly any such
+\\{-1, +1\\} \\) where \\(\Omega \subset \mathbb{R}^d\\) is compact. Clearly any such
 data set can be shattered by
 
 $$
