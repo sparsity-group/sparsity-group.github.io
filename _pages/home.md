@@ -45,7 +45,7 @@ several contributions to these areas as well. For more information, you can take
 a look at our [papers](/papers/).
 
 **&#9733; We are always interested in recruiting <ins>self-motivated</ins> Ph.D.
-students as postdocs with a <ins>strong background in mathematics</ins> who are
+students and postdocs with a <ins>strong background in mathematics</ins> who are
 generally interested in the mathematics of data science. If you are interested
 in joining us, please send an email to [Prof. Rahul Parhi](/rahul/) with (i)
 your CV and (ii) a list of topics you are interested in.**
