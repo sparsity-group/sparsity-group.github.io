@@ -32,6 +32,7 @@ $$
     \tag{1}
 $$
 
+<!-- prettier-ignore -->
 where \\(\rho: \mathbb{R} \to \mathbb{R}\\) is a fixed _activation function_
 and, for \\(k = 1, \ldots K\\), \\(v_k \in \mathbb{R}\\) and \\(\mathbf{w}\_k
 \in \mathbb{R}^d\\) are the *weights* of the network and \\(b_k \in
@@ -117,6 +118,7 @@ $$
     \mathbf{w}_{k\ell} \in \mathbb{R}^d, b_{k\ell} \in \mathbb{R}, c_k \in \mathbb{R}\right\}.
 $$
 
+<!-- prettier-ignore -->
 In particular, \\(K_1\\) and \\(K_2\\) are both \\(O(d)\\). The main idea is
 that \\(\rho\\) in the above display is a specially constructed activation
 function. Theorem 5 of <d-cite key="maiorov1999lower"></d-cite> then says
