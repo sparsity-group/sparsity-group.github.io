@@ -1,2 +1,2 @@
-repo for my personal webste based on
-[`al-folio`](https://github.com/alshedivat/al-folio)
+Repo for website of the Sparsity Research Group, led by Rahul Parhi.
+
