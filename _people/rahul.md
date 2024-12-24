@@ -38,6 +38,7 @@ profile:
 ---
 
 ### About
+
 I am an Assistant Professor of Electrical and Computer Engineering
 ([ECE](https://www.ece.ucsd.edu/)) at the University of California, San Diego
 ([UCSD](https://ucsd.edu/)), which I joined in 2024. From 2022 to 2024, I was a
@@ -79,6 +80,7 @@ For more detailed information about my research, you can take a look at my
 
 ---
 
+<!-- prettier-ignore-start -->
 ### Talks
 
 #### Invited Seminars and Colloquia
@@ -145,6 +147,8 @@ For more detailed information about my research, you can take a look at my
     - IEEE International Conference on Acoustics, Speech, and Signal Processing
       (ICASSP), May 2022
 
+<!-- prettier-ignore-end -->
+
 ---
 
 ### Service and Professional Activities
@@ -172,9 +176,9 @@ For more detailed information about my research, you can take a look at my
 #### Session Organizer/Chair
 
 - International Symposium on Mathematical Programming, Montréal, Québec, Canada, 2024 ([ISMP 2024](https://ismp2024.gerad.ca/))
-    - Chair for the session on [nonsmooth and hierarchical optimization in machine learning](https://ismp2024.gerad.ca/schedule/FB/336)
+  - Chair for the session on [nonsmooth and hierarchical optimization in machine learning](https://ismp2024.gerad.ca/schedule/FB/336)
 - International Conference on Continuous Optimization, Los Angeles, California, 2025 ([ICCOPT 2025](https://sites.google.com/view/iccopt2025))
-    - Organizer and chair for the session on relaxations of optimization problems and extreme point results in infinite dimensions
+  - Organizer and chair for the session on relaxations of optimization problems and extreme point results in infinite dimensions
 
 #### Other
 
@@ -186,4 +190,3 @@ For more detailed information about my research, you can take a look at my
 
 - Teaching Innovations and Undergraduate Affairs Committee, Department of
   Electrical and Computer Engineering (2024 -- Present)
-

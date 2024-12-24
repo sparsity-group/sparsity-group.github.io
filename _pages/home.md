@@ -29,8 +29,8 @@ statistics, and optimization. Our primary area of investigation is in the
 Our research efforts often overlap with many areas of **applied mathematics**
 including applied harmonic analysis, approximation theory, inverse problems,
 stochastic processes, the theory of distributions, time--frequency analysis, and
-wavelets.  As a by-product, we have also made several contributions to these
-areas as well.  For more information, please take a look at our
+wavelets. As a by-product, we have also made several contributions to these
+areas as well. For more information, please take a look at our
 [papers](/papers/).
 
 **&#9733; We are always interested in recruiting <ins>self-motivated</ins> Ph.D.
