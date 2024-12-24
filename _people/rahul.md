@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Principle Investigator
+group: Principal Investigator
 group_rank: 1
 subtitle: rahul <b>[at]</b> ucsd <b>[dot]</b> edu <br> Assistant Professor of <a href="https://www.ece.ucsd.edu/">ECE<a> at <a href="https://ucsd.edu/">UCSD</a>
 
