@@ -85,67 +85,66 @@ For more detailed information about my research, you can take a look at my
 
 #### Invited Seminars and Colloquia
 
-- **Deep Learning Meets Sparse Regularization**
-    - Massachusetts Institute of Technology (MIT), EECS Seminar, March 2024
-    - University of California, San Diego (UCSD), ECE Seminar, February 2024
-    - University of Colorado, Boulder (CU Boulder), Applied Mathematics Seminar, February 2024
-    - University of Alberta, CS Seminar, February 2024
-    - Rutgers University, Mathematics Seminar, January 2024
-    - Chinese University of Hong Kong, Shenzhen (CUHK--Shenzhen), School of Science and Engineering Seminar, January 2024
-    - Washington University in St. Louis, ESE + SDS Seminar, December 2023
-    - Eidgenössische Technische Hochschule (ETH) Zürich, Mathematical Information Science (MINS) Seminar, December 2023
-    - Université Catholique de Louvain (UCLouvain), Statistics Seminar, November 2023
-    - Max Planck Institute for Mathematics in the Sciences (MPI MiS) +
-      University of California Los Angeles (UCLA), Math Machine Learning
-      Seminar, September 2023
+- **Deep Learning Meets Sparse Regularization** [[slides]](/slides/deep-meets-sparse-job-talk.pdf)
+    - **(March 2024)** Massachusetts Institute of Technology (MIT), EECS Seminar
+    - **(February 2024)** University of California, San Diego (UCSD), ECE Seminar
+    - **(February 2024)** University of Colorado, Boulder (CU Boulder), Applied
+      Mathematics Seminar
+    - **(February 2024)** University of Alberta, CS Seminar
+    - **(January 2024)** Rutgers University, Mathematics Seminar
+    - **(January 2024)** Chinese University of Hong Kong, Shenzhen (CUHK--Shenzhen),
+      SEE Seminar
+    - **(December 2023)** Washington University in St. Louis, ESE + SDS Seminar
+    - **(December 2023)** ETH Zürich, MINS Seminar
+    - **(November 2023)** Université Catholique de Louvain (UCLouvain), Statistics Seminar
+    - **(September 2023)** MPI MiS + UCLA, Math Machine Learning Seminar
 
 - **Regularizing Neural Networks via Radon-Domain Total Variation**
-    - Johns Hopkins University, Mathematical Institute for Data Science (MINDS) Seminar, November 2022
+    - **(November 2022)** Johns Hopkins University, Mathematical Institute for Data Science (MINDS) Seminar
 
 - **What Kinds of Functions Do Neural Networks Learn?**
-    - Working Group on Mean Field Neural Networks Seminar, Simons Institute for the Theory of Computing, November 2021
+    - **(November 2021)** Working Group on Mean Field Neural Networks, Simons Institute for the Theory of Computing
 
 - **On BV Spaces, Splines, and Neural Networks**
-    - University of Wisconsin--Madison, Analysis Seminar, Department of Mathematics, November 2021
+    - **(November 2021)** University of Wisconsin--Madison, Analysis Seminar, Department of Mathematics
 
 - **A Representer Theorem for Single-Hidden Layer Neural Networks**
-    - University of Wisconsin--Madison, Institute for Foundations of Data Science (IFDS) Seminar, July 2020
+    - **(July 2020)** University of Wisconsin--Madison, Institute for Foundations of Data Science (IFDS) Seminar
 
 - **Neural Networks Learn Splines**
-    - University of Wisconsin--Madison, Human, Animal, and Machine Learning: Experiment and Theory (HAMLET) Seminar, October 2019
+    - **(October 2019)** University of Wisconsin--Madison, HAMLET Seminar
 
 - **Minimum “Norm” Neural Networks and Splines**
-    - University of Wisconsin--Madison, Institute for Foundations of Data Science (IFDS) Seminar, September 2019
+    - **(September 2019)** University of Wisconsin--Madison, Institute for Foundations of Data Science (IFDS) Seminar
 
 #### Invited Talks at Conference Sessions and Minisymposia
 
 - **Deep Learning Meets Sparse Regularization**
-    - Canadian Mathematical Society (CMS) Winter Meeting, Mathematics of Machine
-      Learning Session, November 2024
+    - **(November 2024)** Canadian Mathematical Society (CMS) Winter Meeting,
+      Mathematics of Machine Learning Session
 
 - **The Role of Sparsity in Learning With Overparameterized Deep Neural Networks**
-    - SIAM Conference on Mathematics of Data Science (MDS), Learning Functions
-      with Low-Dimensional Structure Using Neural Networks Minisymposium, October 2024
+    - **(October 2024)** SIAM Conference on Mathematics of Data Science (MDS), Learning Functions
+      with Low-Dimensional Structure Using Neural Networks Minisymposium
 
 - **A Banach-Space View of Neural Network Training**
-    - International Symposium on Mathematical Programming (ISMP), Nonsmooth and
-      Hierarchical Optimization in Machine Learning Session, July 2024
+    - **(July 2024)** International Symposium on Mathematical Programming (ISMP), Nonsmooth and
+      Hierarchical Optimization in Machine Learning Session
 
 - **On the Sparsity-Promoting Effect of Weight Decay in Deep Learning**
-    - Conference on Parsimony and Learning (CPAL), Rising Stars Session, January 2024
+    - **(January 2024)** Conference on Parsimony and Learning (CPAL), Rising Stars Session
 
 - **A Banach Space Representer Theorem for Single-Hidden Layer Neural Networks**
-    - Workshop on Seeking Low-Dimensionality in Deep Neural Networks (SLowDNN),
-      Young Researchers Spotlight Session, November 2020
+    - **(November 2020)** SLowDNN Workshop, Young Researchers Spotlight Session
 
 #### Contributed Talks
 
 - **Modulation Spaces and the Curse of Dimensionality**
-    - International Conference on Sampling Theory and Applications (SampTA), July 2023
+    - **(July 2023)** International Conference on Sampling Theory and Applications (SampTA)
 
 - **On Continuous-Domain Inverse Problems with Sparse Superpositions of Decaying Sinusoids as Solutions**
-    - IEEE International Conference on Acoustics, Speech, and Signal Processing
-      (ICASSP), May 2022
+    - **(May 2022)** IEEE International Conference on Acoustics, Speech, and Signal Processing
+      (ICASSP)
 
 <!-- prettier-ignore-end -->
 
@@ -180,13 +179,13 @@ For more detailed information about my research, you can take a look at my
 - International Conference on Continuous Optimization, Los Angeles, California, 2025 ([ICCOPT 2025](https://sites.google.com/view/iccopt2025))
   - Organizer and chair for the session on relaxations of optimization problems and extreme point results in infinite dimensions
 
-#### Other
-
-- IEEE Member (2015, 2022 -- Present)
-- SIAM Member (2024 -- Present)
-- Regular contributor of Mathematical Reviews&reg; for MathSciNet&reg; (2024 -- Present)
-
 #### Internal Service at UCSD
 
 - Teaching Innovations and Undergraduate Affairs Committee, Department of
   Electrical and Computer Engineering (2024 -- Present)
+
+#### Other
+
+- IEEE Member (2015, 2022 -- Present)
+- SIAM Member (2024 -- Present)
+- Regular contributor of [Mathematical Reviews&reg;](https://www.ams.org/publications/math-reviews/math-reviews) for [MathSciNet&reg;](https://mathscinet.ams.org/mathscinet/publications-search) (2024 -- Present)
