@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Home
-header: Sparsity Research Group at UCSD
+header: SPARSITY Research Group at UCSD &mdash; Rahul Parhi
 permalink: /
 
 news: true
@@ -20,7 +20,7 @@ images:
 The **S**ignals, **P**atterns, **A**daptivity, **R**egularization,
 **S**tatistics, and **I**nformation **T**heor**Y** (SPARSITY) research group at
 the University of California, San Diego ([UCSD](https://ucsd.edu/)), led by
-[Prof. Rahul Parhi](/rahul/), pursues fundamental research at the interface
+[Rahul Parhi](/rahul/), pursues fundamental research at the interface
 between functional analysis, signal processing, machine learning, nonparametric
 statistics, and optimization. Our primary area of investigation is in the
 **mathematics of data science** with a focus on developing the foundations of
@@ -36,5 +36,5 @@ areas as well. For more information, please take a look at our
 **&#9733; We are always interested in recruiting <ins>self-motivated</ins> Ph.D.
 students and postdocs with a <ins>strong background in mathematics</ins> who are
 generally interested in the mathematics of data science. If you are interested
-in joining us, please send an email to [Prof. Rahul Parhi](/rahul/) with (i)
+in joining us, please send an email to [Rahul Parhi](/rahul/) with (i)
 your CV and (ii) a list of topics you are interested in.**
