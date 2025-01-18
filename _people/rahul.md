@@ -23,10 +23,6 @@ profile:
   position: Assistant Professor of ECE
   align: right
   image: rahul/rahul-epfl-bm-2023.jpg
-  email: rahul@ucsd.edu
-  twitter: RahulParhi
-  linkedin: rahulparhi
-  orcid: 0000-0002-1971-7699
   address: >
     Jacobs Hall, Room 6406<br />
     9736 Engineers Ln<br />
