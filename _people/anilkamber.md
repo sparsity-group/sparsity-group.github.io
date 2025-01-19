@@ -14,7 +14,7 @@ profile:
   name: Anıl Kamber
   position: PhD Student
   align: right
-  image: people/luke-mcdermott.jpg
+  image: people/prof_pic.jpg
   role: PhD Student
   website: https://anlkamber3.github.io/
   address: >
