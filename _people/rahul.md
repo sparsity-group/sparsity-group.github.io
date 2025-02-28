@@ -13,10 +13,12 @@ lastname: Parhi
 teaser: >
   Rahul Parhi is an assistant professor of Electrical and Computer Engineering
   (ECE) at UCSD, which he joined in 2024. Previously, he was a postdoctoral
-  researcher at the École Polytechnique Fédérale de Lausanne (EPFL) from 2022
-  to 2024. He obtained his Ph.D. in 2022 at the University of
-  Wisconsin–Madison and completed his undergraduate studies at the University
-  of Minnesota, Twin Cities in 2018.
+  researcher at the École Polytechnique Fédérale de Lausanne (EPFL) from 2022 to
+  2024. He obtained his Ph.D. in 2022 at the University of Wisconsin–Madison and
+  completed his undergraduate studies at the University of Minnesota, Twin
+  Cities in 2018. His research lies at the interface between
+  functional analysis, signal processing, machine learning, nonparametric
+  statistics, and optimization.
 
 profile:
   name: Rahul Parhi
@@ -39,15 +41,13 @@ I am an Assistant Professor of Electrical and Computer Engineering
 ([ECE](https://www.ece.ucsd.edu/)) at the University of California, San Diego
 ([UCSD](https://ucsd.edu/)), which I joined in 2024. From 2022 to 2024, I was a
 Postdoctoral Researcher at the École Polytechnique Fédérale de Lausanne
-([EPFL](https://www.epfl.ch/en/)), where I worked with [Michael
-Unser](http://bigwww.epfl.ch/unser/). I obtained my Ph.D. in 2022 at the
+([EPFL](https://www.epfl.ch/en/)), hosted by [Michael
+Unser](http://bigwww.epfl.ch/unser/). I completed my Ph.D. in 2022 at the
 University of Wisconsin&ndash;Madison
 ([UW&ndash;Madison](https://www.wisc.edu/)), where I was supervised by [Robert
-D. Nowak](https://nowak.ece.wisc.edu/). There, my dissertation received the
-[Harold Peterson Outstanding Dissertation
-Award](https://engineering.wisc.edu/blog/2023-ece-department-awards-reception-highlights-excellence/).
-I completed my undergraduate studies at the University of Minnesota, Twin Cities
-([UMN](https://twin-cities.umn.edu/)) in 2018.
+D. Nowak](https://nowak.ece.wisc.edu/). I completed my undergraduate studies at
+the University of Minnesota, Twin Cities ([UMN](https://twin-cities.umn.edu/))
+in 2018.
 
 My research lies at the interface between functional analysis, signal
 processing, machine learning, nonparametric statistics, and optimization. My
@@ -63,6 +63,7 @@ learning**. Some questions my research aims to answer include:
 Other topics/keywords that catch my attention include
 **compressed sensing**,
 **computed tomography**,
+**convex analysis**,
 **the geometry of Banach spaces**,
 **inverse problems**,
 **minimax rates**,
@@ -76,20 +77,36 @@ For more detailed information about my research, you can take a look at my
 
 ---
 
+### Selected Honors and Awards
+
+- **(2024)** Conference on Parsimony and Learning (CPAL) Rising Stars Award
+- **(2023)** Harold Peterson Outstanding Dissertation Award from the University of Wisconsin--Madison
+- **(2020)** NSF Graduate Research Fellowship
+  - Awarded for the project titled _Bringing Approximation Theory to Data Science_.
+
+---
+
 <!-- prettier-ignore-start -->
 ### Talks
 
-#### Invited Seminars and Colloquia
+#### Invited Talks in University Seminars and Colloquia
 
-- **Deep Learning Meets Sparse Regularization** [[slides]](/slides/deep-meets-sparse-job-talk.pdf)
+- **Function-Space Models for Deep Learning**
+    - **(February 2025)** PSU + Purdue + UMD, Joint Seminar on Mathematical Data Science
+    - **(February 2025)** Caltech, EE Seminar
+    - **(January 2025)** University of California, San Diego (UCSD), MINDS Seminar, Department of Mathematics
+
+- **Characteristic Functionals and the Innovations Approach to Stochastic Processes With Applications to Random Neural Networks**
+    - **(February 2025)** University of California, San Diego (UCSD), Probability Seminar, Department of Mathematics
+
+- **Deep Learning Meets Sparse Regularization** [**[**slides**]**](/slides/deep-meets-sparse-job-talk.pdf)
     - **(March 2024)** Massachusetts Institute of Technology (MIT), EECS Seminar
     - **(February 2024)** University of California, San Diego (UCSD), ECE Seminar
     - **(February 2024)** University of Colorado, Boulder (CU Boulder), Applied
       Mathematics Seminar
     - **(February 2024)** University of Alberta, CS Seminar
     - **(January 2024)** Rutgers University, Mathematics Seminar
-    - **(January 2024)** Chinese University of Hong Kong, Shenzhen (CUHK--Shenzhen),
-      SEE Seminar
+    - **(January 2024)** Chinese University of Hong Kong, Shenzhen (CUHK--Shenzhen), SEE Seminar
     - **(December 2023)** Washington University in St. Louis, ESE + SDS Seminar
     - **(December 2023)** ETH Zürich, MINS Seminar
     - **(November 2023)** Université Catholique de Louvain (UCLouvain), Statistics Seminar
@@ -113,7 +130,7 @@ For more detailed information about my research, you can take a look at my
 - **Minimum “Norm” Neural Networks and Splines**
     - **(September 2019)** University of Wisconsin--Madison, Institute for Foundations of Data Science (IFDS) Seminar
 
-#### Invited Talks at Conference Sessions and Minisymposia
+#### Invited Talks in Conference Sessions and Minisymposia
 
 - **Deep Learning Meets Sparse Regularization**
     - **(November 2024)** Canadian Mathematical Society (CMS) Winter Meeting,
@@ -155,6 +172,7 @@ For more detailed information about my research, you can take a look at my
 - Biometrika
 - IEEE Open Journal of Signal Processing
 - IEEE Signal Processing Magazine
+- Integral Transforms And Special Functions
 - Journal of Computational and Applied Mathematics
 - Journal of Machine Learning Research
 - Neural Networks
@@ -162,13 +180,15 @@ For more detailed information about my research, you can take a look at my
 - SIAM Journal on Mathematics of Data Science
 - SIAM Journal on Scientific Computing
 
-#### Conference Reviewer
+#### Conference and Workshop Reviewer
 
 - 2020 Conference on Machine Learning and Systems (MLSys)
 - 2023, 2024 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 - 2025 International Conference on Artificial Intelligence and Statistics (AISTATS)
+- 2025 Learning for Dynamics & Control Conference (L4DC)
+- 2025 ICLR Workshop on Weight Space Learning
 
-#### Session Organizer/Chair
+#### Conference Session Organizer/Chair
 
 - International Symposium on Mathematical Programming, Montréal, Québec, Canada, 2024 ([ISMP 2024](https://ismp2024.gerad.ca/))
   - Chair for the session on [nonsmooth and hierarchical optimization in machine learning](https://ismp2024.gerad.ca/schedule/FB/336)

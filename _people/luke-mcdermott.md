@@ -10,8 +10,8 @@ lastname: McDermott
 teaser: >
   Luke McDermott is a PhD student in the Machine Learning & Data Science track
   at UCSD's ECE department, starting in 2024. He previously worked as an ML
-  Research Scientist at Modern Intelligence and earned a B.S. in Mathematics and
-  Computer Science from UCSD in 2023.
+  Research Scientist at Modern Intelligence and earned a B.S. in
+  Mathematics-Computer Science from UCSD in 2023.
 
 profile:
   name: Luke McDermott

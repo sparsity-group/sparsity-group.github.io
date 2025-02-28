@@ -33,3 +33,15 @@
 "siegel":
   - firstname: ["Jonathan", "J.", "J. W.", "Jonathan W."]
     url: https://jwsiegel2510.github.io/
+
+"kumar":
+  - firstname: ["Akash", "A."]
+    url: https://akashkumar-d.github.io/
+
+"belkin":
+  - firstname: ["Mikhail", "M."]
+    url: http://misha.belkin-wang.org/
+
+"petrova":
+  - firstname: ["Guergana", "G."]
+    url: https://people.tamu.edu/~gpetrova/
