@@ -14,11 +14,10 @@ teaser: >
   Rahul Parhi is an assistant professor of Electrical and Computer Engineering
   (ECE) at UCSD, which he joined in 2024. Previously, he was a postdoctoral
   researcher at the École Polytechnique Fédérale de Lausanne (EPFL) from 2022 to
-  2024. He obtained his Ph.D. in 2022 at the University of Wisconsin–Madison and
-  completed his undergraduate studies at the University of Minnesota, Twin
-  Cities in 2018. His research lies at the interface between
-  functional analysis, signal processing, machine learning, nonparametric
-  statistics, and optimization.
+  2024. He obtained his Ph.D. in 2022 at the University of Wisconsin–Madison.
+  His research lies at the interface between functional analysis, signal
+  processing, machine learning, nonparametric statistics, and
+  optimization.
 
 profile:
   name: Rahul Parhi
