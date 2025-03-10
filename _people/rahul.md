@@ -86,7 +86,12 @@ For more detailed information about my research, you can take a look at my
 ---
 
 <!-- prettier-ignore-start -->
-### Talks
+### Talks and Presentations
+
+#### Tutorials
+
+- **A Function-Space Tour of Data Science**
+    - **(March 2025)** Conference on Parsimony and Learning (CPAL)
 
 #### Invited Talks in University Seminars and Colloquia
 
@@ -171,6 +176,7 @@ For more detailed information about my research, you can take a look at my
 - Biometrika
 - IEEE Open Journal of Signal Processing
 - IEEE Signal Processing Magazine
+- IMA Journal of Applied Mathematics
 - Integral Transforms And Special Functions
 - Journal of Computational and Applied Mathematics
 - Journal of Machine Learning Research
