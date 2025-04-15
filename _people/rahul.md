@@ -91,7 +91,7 @@ For more detailed information about my research, you can take a look at my
 #### Tutorials
 
 - **A Function-Space Tour of Data Science**
-    - **(March 2025)** Conference on Parsimony and Learning (CPAL), with [Greg Ongie](https://gregongie.github.io/) [**[**website**]**](https://function-space-tour.github.io/cpal/)
+    - **(March 2025)** Conference on Parsimony and Learning (CPAL) (with [Greg Ongie](https://gregongie.github.io/)) [**[**website**]**](https://function-space-tour.github.io/cpal/)
 
 #### Invited Talks in University Seminars and Colloquia
 
