@@ -90,78 +90,97 @@ For more detailed information about my research, you can take a look at my
 
 #### Tutorials
 
-- **A Function-Space Tour of Data Science**
-    - **(March 2025)** Conference on Parsimony and Learning (CPAL) (with [Greg Ongie](https://gregongie.github.io/)) [**[**website**]**](https://function-space-tour.github.io/cpal/)
+{% details A Function-Space Tour of Data Science (with [Greg Ongie](https://gregongie.github.io/)) [**[**website**]**](https://function-space-tour.github.io/cpal/) %}
+- **(March 2025)** Conference on Parsimony and Learning (CPAL)
+{% enddetails %}
+
+<p style="margin-bottom:0.5rem;"/>
 
 #### Invited Talks in University Seminars and Colloquia
 
-- **Function-Space Models for Deep Learning**
-    - **(February 2025)** PSU + Purdue + UMD, Joint Seminar on Mathematical Data Science
-    - **(February 2025)** Caltech, EE Seminar
-    - **(January 2025)** University of California, San Diego (UCSD), MINDS Seminar, Department of Mathematics
+{% details Function-Space Models for Deep Learning %}
+- **(February 2025)** PSU + Purdue + UMD, Joint Seminar on Mathematical Data Science
+- **(February 2025)** Caltech, EE Seminar
+- **(January 2025)** University of California, San Diego (UCSD), MINDS Seminar, Department of Mathematics
+{% enddetails %}
 
-- **Characteristic Functionals and the Innovations Approach to Stochastic Processes With Applications to Random Neural Networks**
-    - **(February 2025)** University of California, San Diego (UCSD), Probability Seminar, Department of Mathematics
+{% details Characteristic Functionals and the Innovations Approach to Stochastic Processes With Applications to Random Neural Networks %}
+- **(February 2025)** University of California, San Diego (UCSD), Probability Seminar, Department of Mathematics
+{% enddetails %}
 
-- **Deep Learning Meets Sparse Regularization** [**[**slides**]**](/slides/deep-meets-sparse-job-talk.pdf)
-    - **(March 2024)** Massachusetts Institute of Technology (MIT), EECS Seminar
-    - **(February 2024)** University of California, San Diego (UCSD), ECE Seminar
-    - **(February 2024)** University of Colorado, Boulder (CU Boulder), Applied
-      Mathematics Seminar
-    - **(February 2024)** University of Alberta, CS Seminar
-    - **(January 2024)** Rutgers University, Mathematics Seminar
-    - **(January 2024)** Chinese University of Hong Kong, Shenzhen (CUHK--Shenzhen), SEE Seminar
-    - **(December 2023)** Washington University in St. Louis, ESE + SDS Seminar
-    - **(December 2023)** ETH Zürich, MINS Seminar
-    - **(November 2023)** Université Catholique de Louvain (UCLouvain), Statistics Seminar
-    - **(September 2023)** MPI MiS + UCLA, Math Machine Learning Seminar
+{% details Deep Learning Meets Sparse Regularization [**[**slides**]**](/slides/deep-meets-sparse-job-talk.pdf) %}
+- **(March 2024)** Massachusetts Institute of Technology (MIT), EECS Seminar
+- **(February 2024)** University of California, San Diego (UCSD), ECE Seminar
+- **(February 2024)** University of Colorado, Boulder (CU Boulder), Applied Mathematics Seminar
+- **(February 2024)** University of Alberta, CS Seminar
+- **(January 2024)** Rutgers University, Mathematics Seminar
+- **(January 2024)** Chinese University of Hong Kong, Shenzhen (CUHK--Shenzhen), SEE Seminar
+- **(December 2023)** Washington University in St. Louis, ESE + SDS Seminar
+- **(December 2023)** ETH Zürich, MINS Seminar
+- **(November 2023)** Université Catholique de Louvain (UCLouvain), Statistics Seminar
+- **(September 2023)** MPI MiS + UCLA, Math Machine Learning Seminar
+{% enddetails %}
 
-- **Regularizing Neural Networks via Radon-Domain Total Variation**
-    - **(November 2022)** Johns Hopkins University, Mathematical Institute for Data Science (MINDS) Seminar
 
-- **What Kinds of Functions Do Neural Networks Learn?**
-    - **(November 2021)** Working Group on Mean Field Neural Networks, Simons Institute for the Theory of Computing
+{% details Regularizing Neural Networks via Radon-Domain Total Variation %}
+- **(November 2022)** Johns Hopkins University, Mathematical Institute for Data Science (MINDS) Seminar
+{% enddetails %}
 
-- **On BV Spaces, Splines, and Neural Networks**
-    - **(November 2021)** University of Wisconsin--Madison, Analysis Seminar, Department of Mathematics
+{% details What Kinds of Functions Do Neural Networks Learn? %}
+- **(November 2021)** Working Group on Mean Field Neural Networks, Simons Institute for the Theory of Computing
+{% enddetails %}
 
-- **A Representer Theorem for Single-Hidden Layer Neural Networks**
-    - **(July 2020)** University of Wisconsin--Madison, Institute for Foundations of Data Science (IFDS) Seminar
+{% details On BV Spaces, Splines, and Neural Networks %}
+- **(November 2021)** University of Wisconsin--Madison, Analysis Seminar, Department of Mathematics
+{% enddetails %}
 
-- **Neural Networks Learn Splines**
-    - **(October 2019)** University of Wisconsin--Madison, HAMLET Seminar
+{% details A Representer Theorem for Single-Hidden Layer Neural Networks %}
+- **(July 2020)** University of Wisconsin--Madison, Institute for Foundations of Data Science (IFDS) Seminar
+{% enddetails %}
 
-- **Minimum “Norm” Neural Networks and Splines**
-    - **(September 2019)** University of Wisconsin--Madison, Institute for Foundations of Data Science (IFDS) Seminar
+{% details Neural Networks Learn Splines %}
+- **(October 2019)** University of Wisconsin--Madison, HAMLET Seminar
+{% enddetails %}
+
+{% details Minimum “Norm” Neural Networks and Splines %}
+- **(September 2019)** University of Wisconsin--Madison, Institute for Foundations of Data Science (IFDS) Seminar
+{% enddetails %}
+
+<p style="margin-bottom:0.5rem;"/>
 
 #### Invited Talks in Conference Sessions and Minisymposia
 
-- **Deep Learning Meets Sparse Regularization**
-    - **(November 2024)** Canadian Mathematical Society (CMS) Winter Meeting,
-      Mathematics of Machine Learning Session
+{% details Deep Learning Meets Sparse Regularization %}
+- **(November 2024)** Canadian Mathematical Society (CMS) Winter Meeting, Mathematics of Machine Learning Session
+{% enddetails %}
 
-- **The Role of Sparsity in Learning With Overparameterized Deep Neural Networks**
-    - **(October 2024)** SIAM Conference on Mathematics of Data Science (MDS), Learning Functions
-      with Low-Dimensional Structure Using Neural Networks Minisymposium
+{% details The Role of Sparsity in Learning With Overparameterized Deep Neural Networks %}
+- **(October 2024)** SIAM Conference on Mathematics of Data Science (MDS), Learning Functions with Low-Dimensional Structure Using Neural Networks Minisymposium
+{% enddetails %}
 
-- **A Banach-Space View of Neural Network Training**
-    - **(July 2024)** International Symposium on Mathematical Programming (ISMP), Nonsmooth and
-      Hierarchical Optimization in Machine Learning Session
+{% details A Banach-Space View of Neural Network Training %}
+- **(July 2024)** International Symposium on Mathematical Programming (ISMP), Nonsmooth and Hierarchical Optimization in Machine Learning Session
+{% enddetails %}
 
-- **On the Sparsity-Promoting Effect of Weight Decay in Deep Learning**
-    - **(January 2024)** Conference on Parsimony and Learning (CPAL), Rising Stars Session
+{% details On the Sparsity-Promoting Effect of Weight Decay in Deep Learning %}
+- **(January 2024)** Conference on Parsimony and Learning (CPAL), Rising Stars Session
+{% enddetails %}
 
-- **A Banach Space Representer Theorem for Single-Hidden Layer Neural Networks**
-    - **(November 2020)** SLowDNN Workshop, Young Researchers Spotlight Session
+{% details A Banach Space Representer Theorem for Single-Hidden Layer Neural Networks %}
+- **(November 2020)** SLowDNN Workshop, Young Researchers Spotlight Session
+{% enddetails %}
+
+<p style="margin-bottom:0.5rem;"/>
 
 #### Contributed Talks
 
-- **Modulation Spaces and the Curse of Dimensionality**
-    - **(July 2023)** International Conference on Sampling Theory and Applications (SampTA)
+{% details Modulation Spaces and the Curse of Dimensionality %}
+- **(July 2023)** International Conference on Sampling Theory and Applications (SampTA)
+{% enddetails %}
 
-- **On Continuous-Domain Inverse Problems with Sparse Superpositions of Decaying Sinusoids as Solutions**
-    - **(May 2022)** IEEE International Conference on Acoustics, Speech, and Signal Processing
-      (ICASSP)
+{% details On Continuous-Domain Inverse Problems with Sparse Superpositions of Decaying Sinusoids as Solutions %}
+- **(May 2022)** IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+{% enddetails %}
 
 <!-- prettier-ignore-end -->
 
