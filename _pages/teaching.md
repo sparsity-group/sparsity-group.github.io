@@ -11,8 +11,8 @@ nav_order: 6
 
 ###### _Instructor_
 
-| Winter 2025 | ECE 172A | [Image Processing](/172a/) |[Teaching Evaluations](/assets/pdf/evals/ece172a-wi25.pdf) |
-| Fall 2024 | ECE 251C | [Filter Banks and Wavelets](/251c/) | [Teaching Evaluations](/assets/pdf/evals/ece251c-fa24.pdf) |
+| Winter 2025 | ECE 172A | [Image Processing](/172a/) |[Teaching Evaluations](/files/evals/ece172a-wi25.pdf) |
+| Fall 2024 | ECE 251C | [Filter Banks and Wavelets](/251c/) | [Teaching Evaluations](/files/evals/ece251c-fa24.pdf) |
 
 <br>
 

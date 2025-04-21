@@ -4,7 +4,7 @@ title: Home
 header: SPARSITY Research Group at UCSD &mdash; Rahul Parhi
 permalink: /
 
-news: true
+news: false
 selected_papers: true
 social: true
 images:

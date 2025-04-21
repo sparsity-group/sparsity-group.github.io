@@ -81,7 +81,7 @@ For more detailed information about my research, you can take a look at my
 - **(2024)** Conference on Parsimony and Learning (CPAL) Rising Stars Award
 - **(2023)** Harold Peterson Outstanding Dissertation Award from the University of Wisconsin--Madison
 - **(2020)** NSF Graduate Research Fellowship
-  - Awarded for the project titled _Bringing Approximation Theory to Data Science_.
+  - Awarded for the project titled [_Bringing Approximation Theory to Data Science_](/files/nsfgrfp-research.pdf).
 
 ---
 
