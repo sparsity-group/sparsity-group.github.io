@@ -88,7 +88,7 @@ For more detailed information about my research, you can take a look at my
 <!-- prettier-ignore-start -->
 ### Talks and Presentations
 
-(click on the titles to see where each talk was presented)
+(click on the titles to see where/when each talk was presented)
 
 #### Tutorials
 
