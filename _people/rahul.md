@@ -88,6 +88,8 @@ For more detailed information about my research, you can take a look at my
 <!-- prettier-ignore-start -->
 ### Talks and Presentations
 
+(click on the titles to see where each talk was presented)
+
 #### Tutorials
 
 {% details A Function-Space Tour of Data Science (with [Greg Ongie](https://gregongie.github.io/)) [**[**website**]**](https://function-space-tour.github.io/cpal/) %}
@@ -97,8 +99,6 @@ For more detailed information about my research, you can take a look at my
 <p style="margin-bottom:0.5rem;"/>
 
 #### Invited Talks in University Seminars and Colloquia
-
-(click on the titles to see where each talk was presented)
 
 {% details Function-Space Models for Deep Learning %}
 - **(February 2025)** PSU + Purdue + UMD, Joint Seminar on Mathematical Data Science
