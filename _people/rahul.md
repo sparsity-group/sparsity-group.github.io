@@ -132,7 +132,7 @@ For more detailed information about my research, you can take a look at my
 - **(November 2021)** Working Group on Mean Field Neural Networks, Simons Institute for the Theory of Computing
 {% enddetails %}
 
-{% details On BV Spaces, Splines, and Neural Networks %}
+{% details On BV Spaces, Splines, and Neural Networks [**[**slides**]**](/slides/bv-spline-nn.pdf) %}
 - **(November 2021)** University of Wisconsin--Madison, Analysis Seminar, Department of Mathematics
 {% enddetails %}
 
@@ -168,7 +168,7 @@ For more detailed information about my research, you can take a look at my
 - **(January 2024)** Conference on Parsimony and Learning (CPAL), Rising Stars Session
 {% enddetails %}
 
-{% details A Banach Space Representer Theorem for Single-Hidden Layer Neural Networks %}
+{% details A Banach Space Representer Theorem for Single-Hidden Layer Neural Networks [**[**slides**]**](/slides/banach-representer.pdf) %}
 - **(November 2020)** SLowDNN Workshop, Young Researchers Spotlight Session
 {% enddetails %}
 
@@ -180,7 +180,7 @@ For more detailed information about my research, you can take a look at my
 - **(July 2023)** International Conference on Sampling Theory and Applications (SampTA)
 {% enddetails %}
 
-{% details On Continuous-Domain Inverse Problems with Sparse Superpositions of Decaying Sinusoids as Solutions %}
+{% details On Continuous-Domain Inverse Problems with Sparse Superpositions of Decaying Sinusoids as Solutions [**[**slides**]**](/slides/sparse-sinusoid.pdf) %}
 - **(May 2022)** IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 {% enddetails %}
 
