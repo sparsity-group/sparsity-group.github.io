@@ -104,7 +104,7 @@ For more detailed information about my research, you can take a look at my
 - **(January 2025)** University of California, San Diego (UCSD), MINDS Seminar, Department of Mathematics
 {% enddetails %}
 
-{% details Characteristic Functionals and the Innovations Approach to Stochastic Processes With Applications to Random Neural Networks %}
+{% details Characteristic Functionals and the Innovations Approach to Stochastic Processes With Applications to Random Neural Networks [**[**slides**]**](/slides/cf-innovations-random-nn.pdf) %}
 - **(February 2025)** University of California, San Diego (UCSD), Probability Seminar, Department of Mathematics
 {% enddetails %}
 
@@ -122,11 +122,11 @@ For more detailed information about my research, you can take a look at my
 {% enddetails %}
 
 
-{% details Regularizing Neural Networks via Radon-Domain Total Variation %}
+{% details Regularizing Neural Networks via Radon-Domain Total Variation [**[**slides**]**](/slides/regularizing-radon-tv.pdf) %}
 - **(November 2022)** Johns Hopkins University, Mathematical Institute for Data Science (MINDS) Seminar
 {% enddetails %}
 
-{% details What Kinds of Functions Do Neural Networks Learn? %}
+{% details What Kinds of Functions Do Neural Networks Learn? [**[**slides**]**](/slides/what-kinds-of-functions.pdf) %}
 - **(November 2021)** Working Group on Mean Field Neural Networks, Simons Institute for the Theory of Computing
 {% enddetails %}
 
@@ -150,11 +150,11 @@ For more detailed information about my research, you can take a look at my
 
 #### Invited Talks in Conference Sessions and Minisymposia
 
-{% details Deep Learning Meets Sparse Regularization %}
+{% details Deep Learning Meets Sparse Regularization [**[**slides**]**](/slides/deep-meets-sparse-short.pdf) %}
 - **(November 2024)** Canadian Mathematical Society (CMS) Winter Meeting, Mathematics of Machine Learning Session
 {% enddetails %}
 
-{% details The Role of Sparsity in Learning With Overparameterized Deep Neural Networks %}
+{% details The Role of Sparsity in Learning With Overparameterized Deep Neural Networks [**[**slides**]**](/slides/role-sparsity-overparameterized.pdf) %}
 - **(October 2024)** SIAM Conference on Mathematics of Data Science (MDS), Learning Functions with Low-Dimensional Structure Using Neural Networks Minisymposium
 {% enddetails %}
 
@@ -162,7 +162,7 @@ For more detailed information about my research, you can take a look at my
 - **(July 2024)** International Symposium on Mathematical Programming (ISMP), Nonsmooth and Hierarchical Optimization in Machine Learning Session
 {% enddetails %}
 
-{% details On the Sparsity-Promoting Effect of Weight Decay in Deep Learning %}
+{% details On the Sparsity-Promoting Effect of Weight Decay in Deep Learning [**[**slides**]**](/slides/sparsity-weight-decay.pdf) %}
 - **(January 2024)** Conference on Parsimony and Learning (CPAL), Rising Stars Session
 {% enddetails %}
 
@@ -174,7 +174,7 @@ For more detailed information about my research, you can take a look at my
 
 #### Contributed Talks
 
-{% details Modulation Spaces and the Curse of Dimensionality %}
+{% details Modulation Spaces and the Curse of Dimensionality [**[**slides**]**](/slides/modulation-spaces-curse.pdf) %}
 - **(July 2023)** International Conference on Sampling Theory and Applications (SampTA)
 {% enddetails %}
 
