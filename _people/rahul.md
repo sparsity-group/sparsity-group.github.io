@@ -54,20 +54,21 @@ and **data science**---broadly defined---and their applications to problems in
 **optimization**. In particular, my research focuses on the following areas:
 
 - **foundations of neural networks and deep learning**
-    * mathematical characterizations of functions and representations learned from data
-    * approximation properties of neural networks
-    * nonparametric function estimation with neural networks
+
+  - mathematical characterizations of functions and representations learned from data
+  - approximation properties of neural networks
+  - nonparametric function estimation with neural networks
 
 - **mathematics of data science**
-    * sparsity and compressed sensing
-    * optimal recovery and minimax estimation
-    * wavelet-based signal processing and statistics
+
+  - sparsity and compressed sensing
+  - optimal recovery and minimax estimation
+  - wavelet-based signal processing and statistics
 
 - **functional and harmonic analysis**
-    * Radon transforms and their generalizations
-    * wavelets, their generalizations, and other kinds of space-scale or time-frequency analysis
-    * optimization problems over Banach spaces and more general topological vector spaces
+  - Radon transforms and their generalizations
+  - wavelets, their generalizations, and other kinds of space-scale or time-frequency analysis
+  - optimization problems over Banach spaces and more general topological vector spaces
 
 For more detailed information about my research, you can take a look at my
 [papers](/papers/) or my [CV](/files/rahulparhi-cv.pdf).
-
