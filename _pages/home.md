@@ -20,11 +20,9 @@ images:
 The **S**ignals, **P**atterns, **A**daptivity, **R**egularization,
 **S**tatistics, and **I**nformation **T**heor**Y** (SPARSITY) research group at
 the University of California, San Diego ([UCSD](https://ucsd.edu/)), led by
-[Rahul Parhi](/rahul/), pursues fundamental research at the interface
-between functional analysis, signal processing, machine learning, nonparametric
-statistics, and optimization. Our primary area of investigation is in the
-**mathematics of data science** with a focus on developing the foundations of
-**neural networks** and **deep learning**.
+[Rahul Parhi](/rahul/), pursues fundamental research at the interface between
+**signal processing**, **machine learning**, **statistics**, and
+**optimization**.
 
 Our research efforts often overlap with many areas of **applied mathematics**
 including applied harmonic analysis, approximation theory, inverse problems,

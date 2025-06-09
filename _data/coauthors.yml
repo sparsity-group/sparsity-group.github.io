@@ -6,9 +6,21 @@
   - firstname: ["Chris", "C.", "C. H.", "Chris H."]
     url: https://chriskim.umn.edu/
 
+"heath":
+  - firstname: ["Robert", "R.", "R. W.", "Robert W."]
+    url: https://profheath.org/
+
+"heath jr.":
+  - firstname: ["Robert", "R.", "R. W.", "Robert W."]
+    url: https://profheath.org/
+
 "hopper":
   - firstname: ["Nicholas", "N.", "N. J.", "Nicholas J."]
     url: https://www-users.cse.umn.edu/~hoppernj/
+
+"mcdermott":
+  - firstname: ["Luke", "L."]
+    url: https://lukemcdermotttt.github.io/
 
 "nowak":
   - firstname: ["Robert", "R.", "R. D.", "Robert D."]
@@ -25,6 +37,10 @@
 "lee":
   - firstname: ["Kangwook", "K."]
     url: https://kangwooklee.com/
+
+"pourya":
+  - firstname: ["Mehrsa", "M."]
+    url: https://mehrsapo.github.io/
 
 "devore":
   - firstname: ["Ronald", "R."]

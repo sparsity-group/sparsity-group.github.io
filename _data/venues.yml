@@ -42,6 +42,10 @@
   url: https://ieeexplore.ieee.org/xpl/conhome/1000002/all-proceedings
   color: "#186da3"
 
+"ICLR Workshop":
+  url: https://iclr.cc/
+  color: "#186da3"
+
 "ISCAS":
   url: https://ieeexplore.ieee.org/xpl/conhome/1000089/all-proceedings
   color: "#186da3"
