@@ -46,10 +46,18 @@
   url: https://iclr.cc/
   color: "#186da3"
 
+"ICML Workshop":
+  url: https://icml.cc/
+  color: "#186da3"
+
 "ISCAS":
   url: https://ieeexplore.ieee.org/xpl/conhome/1000089/all-proceedings
   color: "#186da3"
 
 "FC":
   url: https://ifca.ai/
+  color: "#6E4C8B"
+
+"COLT":
+  url: https://learningtheory.org/
   color: "#6E4C8B"

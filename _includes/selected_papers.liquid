@@ -1,3 +1,4 @@
 <div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* %}
+  {% bibliography -f submitted --group_by none --query @*[selected=true]* %}
+  {% bibliography -f published --group_by none --query @*[selected=true]* %}
 </div>

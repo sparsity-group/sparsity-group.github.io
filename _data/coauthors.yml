@@ -61,3 +61,19 @@
 "petrova":
   - firstname: ["Guergana", "G."]
     url: https://people.tamu.edu/~gpetrova/
+
+"adcock":
+  - firstname: ["Ben", "B."]
+    url: https://benadcock.org/
+
+"wang":
+  - firstname: ["Yu-Xiang", "Y."]
+    url: https://cseweb.ucsd.edu/~yuxiangw/
+
+"qiao":
+  - firstname: ["Dan", "D."]
+    url: https://danqiao10.github.io/
+
+"liang":
+  - firstname: ["Tongtong", "T."]
+    url: https://tongtongliang.github.io/
