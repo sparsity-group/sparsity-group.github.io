@@ -48,7 +48,7 @@ my undergraduate studies at the University of Minnesota, Twin Cities
 Mathematics and a B.S. in Computer Science.
 
 I am interested in the interplay between **functional and harmonic analysis**
-and **data science**---broadly defined---and their applications **signal
+and **data science**---broadly defined---and their applications to **signal
 processing**, **machine learning**, **statistics**, and **optimization**. In
 particular, my research focuses on the following areas:
 
