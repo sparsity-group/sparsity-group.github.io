@@ -16,7 +16,7 @@ teaser: >
   Polytechnique Fédérale de Lausanne (EPFL) from 2022 to
   2024. He obtained his Ph.D. in 2022 at the University of Wisconsin–Madison.
   His research lies at the interface between functional and harmonic
-  analysis and data science and their applications signal
+  analysis and data science and their applications to signal
   processing, machine learning, statistics, and optimization.
 
 profile:
