@@ -72,14 +72,14 @@ particular, my research focuses on the following areas:
   - geometry of (quasi-)Banach spaces
 
 Almost all of my research is fundamentally motivated by problems data science
-and, in particular, our (lack of) understanding of neural networks. Improving
-our understanding there is a principal outstanding problem. What is particularly
-fascinating is that, in many instances, once a research question is stripped of
-the "applied language", one is left with a fundamental question in pure
-mathematics. As a result, my research touches on and also contributes to various
-areas of pure mathematics. From this perspective, data science is an extremely
+and, in particular, our (lack of) mathematical understanding of neural networks.
+Improving our understanding there is a principal outstanding problem. What is
+particularly fascinating is that, in many instances, once a research question is
+stripped of the "applied language," one is left with a fundamental question in
+pure mathematics. As a result, my research touches various areas of pure and
+applied mathematics. From this perspective, data science is an extremely
 exciting area to be working in as it is the best of two worlds: Beautiful
-mathematics that leads to meaningful real-world impact.
+mathematics that leads to meaningful impact.
 
 For more detailed information about my research, you can take a look at my:
 
