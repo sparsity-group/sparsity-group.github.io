@@ -61,3 +61,7 @@
 "COLT":
   url: https://learningtheory.org/
   color: "#6E4C8B"
+
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#6E4C8B"
