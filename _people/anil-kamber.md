@@ -19,7 +19,7 @@ profile:
   align: right
   image: people/anil-kamber.jpg
   role: PhD Student
-  website: https://anlkamber3.github.io/
+  website: https://anilkamber.github.io/
   address: >
     Jacobs Hall, Room 4516<br />
     9736 Engineers Ln<br />
