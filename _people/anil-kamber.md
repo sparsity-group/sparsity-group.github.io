@@ -10,9 +10,7 @@ lastname: Kamber
 teaser: >
   Anıl Kamber is an ECE Ph.D. student at UCSD. He earned his bachelor's degree in
   Electrical and Electronics Engineering from Boğaziçi University, Istanbul,
-  Turkey. His research interests lie at the intersection of optimization theory,
-  compressed sensing, and theoretical neuroscience.
-
+  Turkey. He is interested in understanding why gradient-based optimization performs so well for modern deep learning architectures.
 profile:
   name: Anıl Kamber
   position: Ph.D. Student
