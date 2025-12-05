@@ -21,7 +21,7 @@ The **S**ignals, **P**atterns, **A**daptivity, **R**egularization,
 **S**tatistics, and **I**nformation **T**heor**Y** (SPARSITY) research group at
 the University of California, San Diego ([UCSD](https://ucsd.edu/)), led by
 [Rahul Parhi](/rahul/), pursues fundamental research in the areas of **signal
-processing**, **machine learning**, **statistics**, and **optimization**.
+processing**, **machine learning**, **statistics**, and **information theory**.
 
 Our research efforts often overlap with many areas of **pure and applied
 mathematics** including applied and computational harmonic analysis,

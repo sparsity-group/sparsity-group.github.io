@@ -49,8 +49,8 @@ Mathematics and a B.S. in Computer Science.
 
 I am interested in the interplay between **functional and harmonic analysis**
 and **data science**---broadly defined---and their applications to **signal
-processing**, **machine learning**, **statistics**, and **optimization**. In
-particular, my research focuses on the following areas:
+processing**, **machine learning**, **statistics**, and **information theory**.
+In particular, my research focuses on the following areas:
 
 - **foundations of neural networks and deep learning**
   - mathematical characterizations of functions and representations learned from
