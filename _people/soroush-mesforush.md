@@ -18,7 +18,7 @@ profile:
   role: PhD Student
   website: https://soroushcu.github.io/
   address: >
-    Jacobs Hall, Room 4516
-    9736 Engineers Ln
+    Jacobs Hall, Room 4516<br />
+    9736 Engineers Ln<br />
     La Jolla, CA 92093
 ---
