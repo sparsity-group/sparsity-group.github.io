@@ -16,7 +16,7 @@ teaser: >
   Polytechnique Fédérale de Lausanne (EPFL) from 2022 to
   2024. He obtained his Ph.D. in 2022 at the University of Wisconsin–Madison.
   His research lies at the interface between functional and harmonic
-  analysis and data science and their applications to signal
+  analysis and data science and their interactions with signal
   processing, machine learning, statistics, and information theory.
 
 profile:
@@ -71,15 +71,13 @@ In particular, my research focuses on the following areas:
     topological vector spaces
   - geometry of (quasi-)Banach spaces
 
-Almost all of my research is fundamentally motivated by problems data science
+Almost all of my research is fundamentally motivated by problems in data science
 and, in particular, our (lack of) mathematical understanding of neural networks.
 Improving our understanding there is a principal outstanding problem. What is
 particularly fascinating is that, in many instances, once a research question is
 stripped of the "applied language," one is left with a fundamental question in
 pure mathematics. As a result, my research touches various areas of pure and
-applied mathematics. From this perspective, data science is an extremely
-exciting area to be working in as it is the best of two worlds: Beautiful
-mathematics that leads to meaningful impact.
+applied mathematics.
 
 For more detailed information about my research, you can take a look at my:
 
