@@ -17,8 +17,7 @@ teaser: >
   2024. He obtained his Ph.D. in Electrical Engineering in 2022 at the
   University of Wisconsin–Madison.  His research interests are in applied
   harmonic analysis, applied functional analysis, and the mathematics of
-  data, with connections to signal processing, machine learning,
-  statistics, and optimization.
+  data.
 
 profile:
   name: Rahul Parhi
