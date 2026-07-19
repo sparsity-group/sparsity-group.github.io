@@ -85,3 +85,11 @@
 "cloninger":
   - firstname: ["Alexander", "A.", "Alex"]
     url: https://sites.google.com/ucsd.edu/alexandercloninger/home
+
+"ongie":
+  - firstname: ["Greg", "G.", "Gregory"]
+    url: https://gregongie.github.io/
+
+"singh":
+  - firstname: ["Esha", "E."]
+    url: https://esha-singh.github.io/

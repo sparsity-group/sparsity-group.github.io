@@ -61,7 +61,7 @@ current research focuses on the following areas:
 - **applications in inverse problems and computational imaging**
   - data-driven methods for inverse problems and computational imaging
   - provably convergent iterative methods for image reconstruction
-  - theory and applications for learning regularizers
+  - theory and methods for learning regularizers
 
 Almost all of my research is fundamentally motivated by problems in data science
 and, in particular, our (lack of) mathematical understanding of neural networks.
