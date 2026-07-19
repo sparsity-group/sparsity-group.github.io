@@ -77,3 +77,11 @@
 "SIREV":
   url: https://www.siam.org/publications/siam-journals/siam-review/
   color: "#c32b72"
+
+"IEEE TCI":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852
+  color: "#c32b72"
+
+"TMLR":
+  url: https://jmlr.org/tmlr/
+  color: "#c32b72"

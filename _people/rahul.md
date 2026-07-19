@@ -11,13 +11,14 @@ description: Profile of Rahul Parhi
 lastname: Parhi
 
 teaser: >
-  Rahul Parhi is an assistant professor of Electrical and Computer Engineering
+  Rahul Parhi is an Assistant Professor of Electrical and Computer Engineering
   (ECE) at UCSD. Previously, he was a postdoctoral researcher at the École
   Polytechnique Fédérale de Lausanne (EPFL) from 2022 to
-  2024. He obtained his Ph.D. in 2022 at the University of Wisconsin–Madison.
-  His research lies at the interface between functional and harmonic
-  analysis and data science and their interactions with signal
-  processing, machine learning, statistics, and information theory.
+  2024. He obtained his Ph.D. in Electrical Engineering in 2022 at the
+  University of Wisconsin–Madison.  His research interests are in applied
+  harmonic analysis, applied functional analysis, and the mathematics of
+  data, with connections to signal processing, machine learning,
+  statistics, and optimization.
 
 profile:
   name: Rahul Parhi
@@ -42,34 +43,26 @@ I am an Assistant Professor of Electrical and Computer Engineering
 Collaborateur Scientifique (a.k.a. Postdoctoral Researcher) at the École
 Polytechnique Fédérale de Lausanne ([EPFL](https://www.epfl.ch/en/)). I
 completed my Ph.D. in Electrical Engineering in 2022 at the University of
-Wisconsin&ndash;Madison ([UW&ndash;Madison](https://www.wisc.edu/)). I completed
-my undergraduate studies at the University of Minnesota, Twin Cities
-([UMN](https://twin-cities.umn.edu/)) in 2018, where I received a B.S. in
-Mathematics and a B.S. in Computer Science.
+Wisconsin&ndash;Madison ([UW&ndash;Madison](https://www.wisc.edu/)).
 
-I am interested in the interplay between **functional and harmonic analysis**
-and **data science**---broadly defined---and their applications to **signal
-processing**, **machine learning**, **statistics**, and **information theory**.
-In particular, my research focuses on the following areas:
+I am generally interested in **applied harmonic analysis**, **applied functional
+analysis**, and the **mathematics of data**, with connections to **signal
+processing**, **machine learning**, **statistics**, and **optimization**. My
+current research focuses on the following areas:
 
 - **foundations of neural networks and deep learning**
-  - mathematical characterizations of functions and representations learned from
-    data
-  - approximation properties of neural networks
-  - nonparametric function estimation with neural networks
-  - function spaces and representation costs of neural networks
-- **mathematics of data science**
-  - sparsity and compressed sensing
-  - optimal recovery, information-based complexity, and minimax estimation
-  - wavelet-based signal processing and inverse problems more generally
-  - mathematical statistics and information theory
-- **pure and applied aspects of functional and harmonic analysis**
+  - function-space perspectives and representation costs of neural networks
+  - approximation and statistical properties of neural networks
+  - implicit and inductive biases in neural network training
+- **applied and computational aspects of functional and harmonic analysis**
   - Radon transforms and their generalizations
   - wavelets, their generalizations, and other kinds of space-scale or
     time-frequency analysis
-  - optimization and convex analysis on Banach spaces and more general
-    topological vector spaces
   - geometry of (quasi-)Banach spaces
+- **applications in inverse problems and computational imaging**
+  - data-driven methods for inverse problems and computational imaging
+  - provably convergent iterative methods for image reconstruction
+  - theory and applications for learning regularizers
 
 Almost all of my research is fundamentally motivated by problems in data science
 and, in particular, our (lack of) mathematical understanding of neural networks.
