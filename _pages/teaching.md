@@ -11,7 +11,8 @@ nav_order: 6
 
 ###### _Instructor_
 
+| Fall 2026 | ECE 251C | [Filter Banks and Wavelets](/251c) | |
 | Spring 2026 | ECE 161C | [Image Processing](/161c) | [Teaching Evaluations](/files/evals/ece161c-sp26.pdf) |
-| Fall 2025 | ECE 251C | [Filter Banks and Wavelets](/251c) | [Teaching Evaluations](/files/evals/ece251c-fa25.pdf) |
+| Fall 2025 | ECE 251C | [Filter Banks and Wavelets](/251c-fa25) | [Teaching Evaluations](/files/evals/ece251c-fa25.pdf) |
 | Winter 2025 | ECE 172A | [Image Processing](/172a/) | [Teaching Evaluations](/files/evals/ece172a-wi25.pdf) |
 | Fall 2024 | ECE 251C | [Filter Banks and Wavelets](/251c-fa24/) | [Teaching Evaluations](/files/evals/ece251c-fa24.pdf) |
