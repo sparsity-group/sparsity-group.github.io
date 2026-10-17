@@ -85,3 +85,7 @@
 "TMLR":
   url: https://jmlr.org/tmlr/
   color: "#c32b72"
+
+"JAT":
+  url: https://www.sciencedirect.com/journal/journal-of-approximation-theory
+  color: "#c32b72"
